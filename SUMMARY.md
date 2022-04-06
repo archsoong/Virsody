@@ -1,29 +1,29 @@
 # Table of contents
 
-* [關於Virsody](README.md)
+* [關於 Virsody](README.md)
 
-## 虛擬線上展覽介紹
+## 線上虛擬策展平台
 
-* [展場空間及展示型態介紹](xu-ni-xian-shang-zhan-lan-jie-shao/zhan-chang-kong-jian-ji-zhan-shi-xing-tai-jie-shao.md)
+* [展間及作品類別介紹](xian-shang-xu-ni-ce-zhan-ping-tai/zhan-chang-kong-jian-ji-zhan-shi-xing-tai-jie-shao.md)
 
-## 平台註冊/登入
+## 平台註冊及登入
 
-* [切換登入 / 註冊](ping-tai-zhu-ce-deng-ru/qie-huan-deng-ru-zhu-ce.md)
-* [帳號驗證](ping-tai-zhu-ce-deng-ru/zhang-hao-yan-zheng.md)
-* [第三方登入](ping-tai-zhu-ce-deng-ru/di-san-fang-deng-ru.md)
-* [忘記密碼](ping-tai-zhu-ce-deng-ru/wang-ji-mi-ma.md)
+* [註冊帳號](ping-tai-zhu-ce-ji-deng-ru/qie-huan-deng-ru-zhu-ce.md)
+* [驗證信箱](ping-tai-zhu-ce-ji-deng-ru/zhang-hao-yan-zheng.md)
+* [第三方註冊及登入](ping-tai-zhu-ce-ji-deng-ru/di-san-fang-deng-ru.md)
+* [忘記密碼](ping-tai-zhu-ce-ji-deng-ru/wang-ji-mi-ma.md)
 
-## 展覽管理
+## 展間管理
 
-* [新增展覽](zhan-lan-guan-li/xin-zeng-zhan-lan.md)
-* [刪除展覽](zhan-lan-guan-li/shan-chu-zhan-lan.md)
-* [回收場](zhan-lan-guan-li/hui-shou-chang.md)
-* [展覽檔案數量](zhan-lan-guan-li/zhan-lan-dang-an-shu-liang.md)
+* [新增展覽](zhan-jian-guan-li/xin-zeng-zhan-lan.md)
+* [刪除展覽](zhan-jian-guan-li/shan-chu-zhan-lan.md)
+* [回收場](zhan-jian-guan-li/hui-shou-chang.md)
+* [展間數量限制](zhan-jian-guan-li/zhan-lan-dang-an-shu-liang.md)
 
-## 填寫展覽資訊
+## 編輯展覽資訊
 
-* [進入展覽資訊頁](tian-xie-zhan-lan-zi-xun/jin-ru-zhan-lan-zi-xun-ye.md)
-* [展覽封面](tian-xie-zhan-lan-zi-xun/zhan-lan-feng-mian.md)
+* [進入展覽資訊頁](bian-ji-zhan-lan-zi-xun/jin-ru-zhan-lan-zi-xun-ye.md)
+* [展覽封面](bian-ji-zhan-lan-zi-xun/zhan-lan-feng-mian.md)
 
 ## 編輯展覽
 
