@@ -43,3 +43,4 @@
 * [預覽展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/yu-lan-zhan-lan.md)
 * [公開展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/gong-kai-bu-gong-kai-zhan-lan.md)
 * [分享展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/fen-xiang-zhan-lan.md)
+* [展覽大廳](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/zhan-lan-da-ting.md)
