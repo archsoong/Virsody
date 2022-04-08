@@ -38,8 +38,8 @@
   * [上傳網址](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-zhi.md)
 * [管理作品](bian-ji-zhan-jian-zuo-pin/guan-li-zuo-pin.md)
 
-## 預覽／公開及分享展覽
+## 預覽、公開及分享展覽
 
 * [預覽展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/yu-lan-zhan-lan.md)
-* [公開/不公開展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/gong-kai-bu-gong-kai-zhan-lan.md)
+* [公開展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/gong-kai-bu-gong-kai-zhan-lan.md)
 * [分享展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/fen-xiang-zhan-lan.md)
