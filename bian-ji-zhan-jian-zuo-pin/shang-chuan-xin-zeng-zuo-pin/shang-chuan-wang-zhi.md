@@ -1,6 +1,6 @@
 # 上傳網址
 
-Virsody 提供網址載入的服務，我們提供一個參考的網址：[https://bkhole.com/](https://bkhole.com)
+Virsody 提供網址載入的服務，我們提供一個參考的網址：[https://bkhole.com/](https://bkhole.com/)
 
 ![](https://lh3.googleusercontent.com/vTuNDLrwTOXe3WWm7yic89ltzNl42h2dp9vMYzOue6Vd-30BiJtqqRVGx\_LtgQxQjV3SxiZegVTVDJWKgMF2bhi12Rxk5oboYw7Ik7IyrRiNnyEfAjW6BpebxyPqTUa-tw)
 

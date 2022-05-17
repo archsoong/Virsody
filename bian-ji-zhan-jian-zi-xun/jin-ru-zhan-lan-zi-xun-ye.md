@@ -2,7 +2,7 @@
 
 你可以點擊「編輯展間」進入展覽資訊頁。
 
-![](<../.gitbook/assets/image (2).png>)
+![](<../.gitbook/assets/image (2) (1).png>)
 
 接著，你可以點擊「編輯」按鈕編輯展覽資訊。
 
