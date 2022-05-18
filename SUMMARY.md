@@ -28,13 +28,14 @@
 ## 編輯展間作品
 
 * [上傳編輯作品頁](bian-ji-zhan-jian-zuo-pin/jin-ru-shang-chuan-bian-ji-ye-ye.md)
+* [上傳舞台模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-wu-tai-mo-xing.md)
 * [上傳主視覺海報](bian-ji-zhan-jian-zuo-pin/zhu-shi-jue-hai-bao.md)
 * [上傳壁貼](bian-ji-zhan-jian-zuo-pin/zuo-pin.md)
 * [上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/README.md)
   * [上傳圖片](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian.md)
   * [上傳影片](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-ying-pian.md)
   * [上傳聲音](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-sheng-yin.md)
-  * [上傳 3D 模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/README.md)
+  * [上傳 3D 模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing.md)
     * [3D 模型上傳問題](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/3d-mo-xing-shang-chuan-wen-ti.md)
   * [上傳網址](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-zhi.md)
 * [管理作品](bian-ji-zhan-jian-zuo-pin/guan-li-zuo-pin.md)
