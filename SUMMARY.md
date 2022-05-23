@@ -35,9 +35,10 @@
   * [上傳圖片](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian.md)
   * [上傳影片](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-ying-pian.md)
   * [上傳聲音](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-sheng-yin.md)
-  * [上傳 3D 模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing.md)
-    * [我的3D模型太大或是格式不符導致上傳失敗該怎麼辦？](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
   * [上傳網址](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-zhi.md)
+  * [上傳 3D 模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing.md)
+    * [我的 3D 模型太大或是格式不符導致上傳失敗該怎麼辦？](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
+    * [上傳 gltf 模型檔時顯示上傳失敗](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
 * [管理作品](bian-ji-zhan-jian-zuo-pin/guan-li-zuo-pin.md)
 
 ## 預覽、公開及分享展覽
