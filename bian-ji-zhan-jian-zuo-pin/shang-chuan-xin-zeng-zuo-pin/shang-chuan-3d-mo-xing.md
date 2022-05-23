@@ -18,4 +18,14 @@
 
 ![](<../../.gitbook/assets/截圖 2022-04-08 下午1.26.02.png>)
 
+### 上傳3D模型問題QA
+
+#### [🔘我的3D模型太大或是格式不符導致上傳失敗該怎麼辦？](shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
+
+
+
+
+
+<mark style="color:blue;">****</mark>
+
 <mark style="color:blue;">****</mark>
