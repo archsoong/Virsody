@@ -18,4 +18,4 @@
 
 3.逛展者可以透過點擊您設定的連結按鈕，前往該網站
 
-![](<../../../.gitbook/assets/image (5) (1).png>)
+![](<../../../.gitbook/assets/image (5) (1) (1).png>)

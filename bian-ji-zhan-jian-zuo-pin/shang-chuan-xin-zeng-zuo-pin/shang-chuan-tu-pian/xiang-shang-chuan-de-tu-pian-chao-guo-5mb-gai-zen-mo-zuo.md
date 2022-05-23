@@ -28,7 +28,7 @@
 
 Step 1. 此網站免註冊，進入後點擊按鈕上傳圖片
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)
 
 Step 2. 再點擊 “Upload” 上傳圖片
 
