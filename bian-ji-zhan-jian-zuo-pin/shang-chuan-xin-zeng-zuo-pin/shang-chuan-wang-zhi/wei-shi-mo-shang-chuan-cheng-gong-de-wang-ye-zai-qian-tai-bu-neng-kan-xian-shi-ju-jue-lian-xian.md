@@ -10,12 +10,12 @@
 
 1.改用其他作品類型，像是「圖片」
 
-![](<../../../.gitbook/assets/image (6).png>)
+![](<../../../.gitbook/assets/image (6) (1).png>)
 
 2.在作品資訊那裡填入網站連結
 
-![](<../../../.gitbook/assets/image (4).png>)
+![](<../../../.gitbook/assets/image (4) (1).png>)
 
 3.逛展者可以透過點擊您設定的連結按鈕，前往該網站
 
-![](<../../../.gitbook/assets/image (5).png>)
+![](<../../../.gitbook/assets/image (5) (1).png>)

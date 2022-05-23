@@ -10,4 +10,4 @@ Virsody 提供網址載入的服務，我們提供一個參考的網址：[https
 
 ### 上傳網址問題QA
 
-#### [🔘](../shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)為什麼上傳成功的網頁在前台不能看，顯示拒絕連線?
+#### 🔘[為什麼上傳成功的網頁在前台不能看，顯示拒絕連線?](wei-shi-mo-shang-chuan-cheng-gong-de-wang-ye-zai-qian-tai-bu-neng-kan-xian-shi-ju-jue-lian-xian.md)
