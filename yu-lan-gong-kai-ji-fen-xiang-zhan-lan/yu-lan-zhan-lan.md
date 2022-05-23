@@ -4,6 +4,10 @@
 
 ![](<../.gitbook/assets/截圖 2022-04-08 下午1.52.45.png>)
 
-<mark style="color:red;">**注意事項：預覽展覽的不提供非帳號持有者使用，如您想給他人參觀展覽，請「分享」展覽，使用分享用的展覽連結。**</mark>
+<mark style="color:red;">****</mark>
 
-![](<../.gitbook/assets/截圖 2022-04-08 下午1.52.51.png>)
+<mark style="color:red;">****</mark>
+
+<mark style="color:red;">****</mark>
+
+<mark style="color:red;">****</mark>
