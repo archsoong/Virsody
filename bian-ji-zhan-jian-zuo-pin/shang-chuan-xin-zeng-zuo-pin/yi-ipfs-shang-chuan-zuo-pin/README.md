@@ -6,7 +6,7 @@ IPFS (InterPlanetary File System) 又稱作為「星際文件系統」，是一�
 
 而 NFT 作為一種新型態的數位資產，必須確保其擁有「永久性」和「唯一性」。因此目前多數的NFT資料，都是儲存在 IPFS 上。
 
-若欲透過 IPFS 上傳 NFT 的相關作品，則建議可透過以下兩種平台：
+若欲透過 IPFS 上傳 NFT 的相關作品，建議可透過以下兩種平台：
 
 (1) [akaSwap](https://akaswap.com/)：台灣根據Tezos鏈搭建的本土NFT交易市集 ，其平台具備中文介面，因此對中文使用者來說相對友善。
 
