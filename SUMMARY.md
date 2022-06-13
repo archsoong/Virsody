@@ -42,7 +42,7 @@
   * [上傳 3D 模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing.md)
     * [我的 3D 模型太大或是格式不符導致上傳失敗該怎麼辦？](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
     * [上傳 gltf 模型檔時顯示上傳失敗](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
-    * [上傳的3D模型定位或面向不正確怎麼辦 ?](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-de-3d-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
+    * [上傳的3D模型定位不正確怎麼辦 ?](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-de-3d-mo-xing-ding-wei-bu-zheng-que-zen-mo-ban.md)
   * [以 IPFS 上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/README.md)
     * [akaSwap](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/akaswap.md)
     * [OpenSea](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
