@@ -29,7 +29,7 @@
 
 * [上傳編輯作品頁](bian-ji-zhan-jian-zuo-pin/jin-ru-shang-chuan-bian-ji-ye-ye.md)
 * [上傳舞台模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/README.md)
-  * [上傳的舞台模型的定位或面向不正確](bian-ji-zhan-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/shang-chuan-de-wu-tai-mo-xing-de-ding-wei-huo-mian-xiang-bu-zheng-que.md)
+  * [上傳的舞台模型定位或面向不正確](bian-ji-zhan-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que.md)
 * [上傳主視覺海報](bian-ji-zhan-jian-zuo-pin/zhu-shi-jue-hai-bao.md)
 * [上傳壁貼](bian-ji-zhan-jian-zuo-pin/zuo-pin.md)
 * [上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/README.md)
