@@ -44,7 +44,8 @@
     * [上傳 gltf 模型檔時顯示上傳失敗](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
     * [上傳的3D模型定位或面向不正確怎麼辦 ?](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-de-3d-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
   * [以 IPFS 上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/README.md)
-    * [如何用 IPFS 上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/ru-he-yong-ipfs-shang-chuan-zuo-pin.md)
+    * [akaSwap](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/akaswap.md)
+    * [OpenSea](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
 * [管理作品](bian-ji-zhan-jian-zuo-pin/guan-li-zuo-pin.md)
 
 ## 預覽、公開及分享展覽
