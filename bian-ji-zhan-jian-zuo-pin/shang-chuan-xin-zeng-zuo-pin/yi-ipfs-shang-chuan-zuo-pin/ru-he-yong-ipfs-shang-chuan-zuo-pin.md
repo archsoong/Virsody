@@ -1,0 +1,49 @@
+# 如何用 IPFS 上傳作品
+
+欲透過IPFS上傳作品，請先將作品上傳至 [akaSwap](https://www.akaswap.com/) 或 [OpenSea](https://opensea.io/) ，並將作品的IPFS連結上傳至Virsody，以下會各別針對 OpenSea 與 akaSwap 兩大平台進行教學解說。
+
+## akaSwap
+
+將作品上傳至 akaSwap 後，至作品頁面中，找到「類型」旁邊的 <mark style="color:blue;">IPFS 連結</mark>。
+
+![此作品僅作為範例教學，作品來源：https://akaswap.com/akaobj/604](<../../../.gitbook/assets/截圖 2022-06-07 下午4.17.26.png>)
+
+並點擊右鍵，選擇<mark style="color:red;">「複製網址連結」</mark>。
+
+![](<../../../.gitbook/assets/截圖 2022-06-07 下午4.20.02.png>)
+
+回到Virsody後，將連結貼至IPFS連結輸入框中，並點選<mark style="color:blue;">「檢查連線」</mark>按鈕。
+
+![](<../../../.gitbook/assets/截圖 2022-06-07 下午4.27.08.png>)
+
+系統便會自動判定IPFS作品的檔案類型，並呈現預覽圖。沒問題後便可按「下一步」完成步驟上傳。
+
+![](<../../../.gitbook/assets/截圖 2022-06-07 下午4.34.29.png>)
+
+## OpenSea
+
+將作品上傳至 OpenSea 後，點擊作品頁面下方的<mark style="color:blue;">「Details」</mark>。
+
+![](<../../../.gitbook/assets/截圖 2022-06-07 下午3.22.16.png>)
+
+並在<mark style="color:blue;">「Token ID」</mark>的地方，點擊後方藍色的<mark style="color:blue;">ID號碼</mark> (如圖中的 439)，就會開啟作品的JSON資料頁。
+
+![](<../../../.gitbook/assets/截圖 2022-06-07 下午3.27.40.png>)
+
+將作品的JSON資料頁打開後，找到 <mark style="color:red;">”image”</mark> 開頭那行，接著可能會遇到兩種狀況：
+
+(1) 若後方為完整的<mark style="color:blue;">「網址」</mark>形式，可直接複製貼至Virsody後台的IPFS連結輸入框內即可。
+
+![](<../../../.gitbook/assets/截圖 2022-06-13 上午1.33.31.png>)
+
+(2) 若並非網址形式，則請將 <mark style="color:blue;">ipfs://</mark>  後方的字串複製下來，並在字串前加上網址前綴[<mark style="color:red;">https://ipfs.io/ipfs/</mark>](https://ipfs.io/ipfs/) <mark style="color:red;"></mark> 。
+
+![](<../../../.gitbook/assets/截圖 2022-06-10 下午6.16.36.png>)
+
+回到Virsody後，將複製的字串貼至IPFS連結輸入框中 ( ⚠️若字串沒有網址前綴，請記得在前面加上 [<mark style="color:red;">https://ipfs.io/ipfs/</mark>](https://ipfs.io/ipfs/) <mark style="color:red;"></mark> )，並點選<mark style="color:blue;">「檢查連線」</mark>按鈕。
+
+![](<../../../.gitbook/assets/截圖 2022-06-07 下午3.46.16.png>)
+
+系統便會自動判定IPFS作品的檔案類型、呈現預覽圖。確認後便可按「下一步」，繼續完成步驟並上傳。
+
+![](<../../../.gitbook/assets/截圖 2022-06-07 下午4.04.57.png>)
