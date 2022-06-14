@@ -12,7 +12,6 @@
 * [驗證信箱](ping-tai-zhu-ce-deng-ru/zhang-hao-yan-zheng.md)
 * [第三方註冊及登入](ping-tai-zhu-ce-deng-ru/di-san-fang-deng-ru.md)
 * [忘記密碼](ping-tai-zhu-ce-deng-ru/wang-ji-mi-ma.md)
-* [為什麼會無法進入登入頁面？](ping-tai-zhu-ce-ji-deng-ru/wei-shi-mo-hui-wu-fa-jin-ru-deng-ru-ye-mian.md)
 
 ## 展間管理
 
@@ -62,3 +61,7 @@
 * [基礎方案](fu-wu-fang-an/fen-xiang-zhan-lan.md)
 * [創作者方案](fu-wu-fang-an/chuang-zuo-zhe-fang-an.md)
 * [進階方案](fu-wu-fang-an/jin-jie-fang-an.md)
+
+## 其他問題
+
+* [為什麼會無法進入登入頁面？](qi-ta-wen-ti/wei-shi-mo-hui-wu-fa-jin-ru-deng-ru-ye-mian.md)
