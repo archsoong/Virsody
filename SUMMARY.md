@@ -46,6 +46,7 @@
   * [以 IPFS 上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/README.md)
     * [akaSwap](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/akaswap.md)
     * [OpenSea](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
+  * [作品資訊欄-文字編輯器功能](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/zuo-pin-zi-xun-lan-wen-zi-bian-ji-qi-gong-neng.md)
 * [管理作品](bian-ji-zhan-jian-zuo-pin/guan-li-zuo-pin.md)
 
 ## 預覽、公開及分享展覽
