@@ -1,19 +1,22 @@
 # 上傳舞台模型
 
-如果您是適用「進階方案」或「訂製方案」的使用者，部分展間房型會提供一個特定的舞台擺放 3D 模型，可用來放置品牌的 3D Logo 或特色物品。
+部分展間房型會提供一個特定的「舞台」擺放大型的 3D 模型，可用來放置品牌的 3D Logo 或特色物件。若不進行更動，此舞台模型預設為 Virsody 的 3D Logo。
 
-![舞台模型位置](<../../.gitbook/assets/截圖 2022-05-18 下午2.15.33.png>)
+<figure><img src="../../.gitbook/assets/Frame 41.png" alt=""><figcaption></figcaption></figure>
 
-舞台模型通常會位於展間的偏中心的位置，會和主視覺海報一樣呈現粉紅色的「+」點，點擊後可以上傳模型 .glb 或 .gltf 檔。
+若想更改此舞台模型，首先須先升級為「進階方案」。升級完成後在後台編輯的空間地圖上，找到並點擊空間中心點的粉紅色「+」點。
 
-![](<../../.gitbook/assets/截圖 2022-05-18 下午2.19.43.png>)
+<figure><img src="../../.gitbook/assets/Frame 40 (1).png" alt=""><figcaption></figcaption></figure>
 
-上傳後可再次進入展間瀏覽，便可看到新的舞台上傳了：
+點擊後會出現上傳的彈窗 ( 格式為 10MB 以下的 .glb 或 .gltf 檔 )，上傳完後再填寫「舞台模型名稱」即可儲存完成。
 
-![](<../../.gitbook/assets/截圖 2022-05-18 下午2.22.49.png>)
+<mark style="color:blue;">**備註：建議使用 .glb 檔，因為部分 .gltf 檔會因為兼容性問題而無法上傳或顯示。**</mark>
 
-是不是覺得很有趣？馬上使用「進階方案」試試看「更換舞台模型」的功能吧～
+<figure><img src="../../.gitbook/assets/Frame 43.png" alt=""><figcaption></figcaption></figure>
 
-備註：建議使用 .glb 檔，部分 .gltf 檔會因為兼容性問題而無法上傳或顯示。\
-備註 2：若沒有放置，則會顯示 Virsody 的 3D Logo。
+上傳後再次進入空間瀏覽，便可看到新的舞台上傳了！
+
+<figure><img src="../../.gitbook/assets/Frame 42.png" alt=""><figcaption></figcaption></figure>
+
+是不是覺得很有趣？馬上使用「進階方案」試試看「更換舞台模型」的功能吧！
 

@@ -1,7 +1,9 @@
 # 管理作品
 
-當你完成作品上傳後，你的上傳編輯作品頁的上傳清單會有一系列的作品，且平面圖上會有豐富的圖示。
+當完成上傳後，「空間編輯」頁的地圖上的點位會標示清楚、不同顏色的圖示，而右側的展品清單也會將不同類型的檔案分門別類地羅列下來，協助分類管理。
 
-平面圖及上傳清單會依據主視覺海報、作品及壁貼有不同的顏色及圖示協助分類管理。
+<figure><img src="../.gitbook/assets/Frame 44.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/截圖 2022-04-08 下午1.42.16.png>)
+點擊上傳完成的作品點位，可對該作品進行「編輯」或「刪除」，在右側的展品清單上一樣也可以執行同樣的功能來管理作品。
+
+<figure><img src="../.gitbook/assets/Frame 45.png" alt=""><figcaption></figcaption></figure>

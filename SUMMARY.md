@@ -49,13 +49,13 @@
   * [作品資訊欄-文字編輯器功能](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/zuo-pin-zi-xun-lan-wen-zi-bian-ji-qi-gong-neng.md)
 * [管理作品](bian-ji-kong-jian-zuo-pin/guan-li-zuo-pin.md)
 
-## 預覽、公開及分享展覽
+## 預覽、公開及分享空間
 
-* [預覽展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/yu-lan-zhan-lan.md)
-* [公開展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/gong-kai-bu-gong-kai-zhan-lan/README.md)
-  * [展覽不想公開，只想給知道展覽的人看該怎麼做?](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/gong-kai-bu-gong-kai-zhan-lan/zhan-lan-bu-xiang-gong-kai-zhi-xiang-gei-zhi-dao-zhan-lan-de-ren-kan-gai-zen-mo-zuo.md)
-* [分享展覽](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/fen-xiang-zhan-lan.md)
-* [展覽大廳](yu-lan-gong-kai-ji-fen-xiang-zhan-lan/zhan-lan-da-ting.md)
+* [預覽空間](yu-lan-gong-kai-ji-fen-xiang-kong-jian/yu-lan-zhan-lan.md)
+* [公開展覽](yu-lan-gong-kai-ji-fen-xiang-kong-jian/gong-kai-bu-gong-kai-zhan-lan/README.md)
+  * [展覽不想公開，只想給知道展覽的人看該怎麼做?](yu-lan-gong-kai-ji-fen-xiang-kong-jian/gong-kai-bu-gong-kai-zhan-lan/zhan-lan-bu-xiang-gong-kai-zhi-xiang-gei-zhi-dao-zhan-lan-de-ren-kan-gai-zen-mo-zuo.md)
+* [分享展覽](yu-lan-gong-kai-ji-fen-xiang-kong-jian/fen-xiang-zhan-lan.md)
+* [展覽大廳](yu-lan-gong-kai-ji-fen-xiang-kong-jian/zhan-lan-da-ting.md)
 
 ## 服務方案
 
