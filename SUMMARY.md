@@ -13,41 +13,41 @@
 * [第三方註冊及登入](ping-tai-zhu-ce-deng-ru/di-san-fang-deng-ru.md)
 * [忘記密碼](ping-tai-zhu-ce-deng-ru/wang-ji-mi-ma.md)
 
-## 展間管理
+## 空間管理
 
-* [新增展覽](zhan-lan-guan-li/xin-zeng-zhan-lan.md)
-* [刪除展覽](zhan-lan-guan-li/shan-chu-zhan-lan.md)
-* [回收場](zhan-lan-guan-li/hui-shou-chang.md)
-* [展間數量限制](zhan-lan-guan-li/zhan-lan-dang-an-shu-liang.md)
+* [新增空間](kong-jian-guan-li/xin-zeng-zhan-lan.md)
+* [刪除空間](kong-jian-guan-li/shan-chu-zhan-lan.md)
+* [回收場](kong-jian-guan-li/hui-shou-chang.md)
+* [空間數量限制](kong-jian-guan-li/zhan-lan-dang-an-shu-liang.md)
 
-## 編輯展間資訊
+## 編輯空間資訊
 
-* [編輯展覽資訊](bian-ji-zhan-jian-zi-xun/jin-ru-zhan-lan-zi-xun-ye.md)
-* [上傳展覽封面](bian-ji-zhan-jian-zi-xun/zhan-lan-feng-mian.md)
+* [空間總覽](bian-ji-kong-jian-zi-xun/jin-ru-zhan-lan-zi-xun-ye.md)
+* [上傳空間封面](bian-ji-kong-jian-zi-xun/zhan-lan-feng-mian.md)
 
-## 編輯展間作品
+## 編輯空間作品
 
-* [上傳編輯作品頁](bian-ji-zhan-jian-zuo-pin/jin-ru-shang-chuan-bian-ji-ye-ye.md)
-* [上傳舞台模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/README.md)
-  * [上傳的舞台模型定位或面向不正確怎麼辦？](bian-ji-zhan-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
-* [上傳主視覺海報](bian-ji-zhan-jian-zuo-pin/zhu-shi-jue-hai-bao.md)
-* [上傳壁貼](bian-ji-zhan-jian-zuo-pin/zuo-pin.md)
-* [上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/README.md)
-  * [上傳圖片](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian/README.md)
-    * [想上傳的圖片超過 5mb 該怎麼做?](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian/xiang-shang-chuan-de-tu-pian-chao-guo-5mb-gai-zen-mo-zuo.md)
-  * [上傳影片](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-ying-pian.md)
-  * [上傳聲音](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-sheng-yin.md)
-  * [上傳網址](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-zhi/README.md)
-    * [為什麼上傳成功的網頁在前台不能看，顯示拒絕連線？](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-zhi/wei-shi-mo-shang-chuan-cheng-gong-de-wang-ye-zai-qian-tai-bu-neng-kan-xian-shi-ju-jue-lian-xian.md)
-  * [上傳 3D 模型](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing.md)
-    * [我的 3D 模型太大或是格式不符導致上傳失敗該怎麼辦？](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
-    * [為什麼上傳 gltf 模型檔時顯示上傳失敗？](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wei-shi-mo-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
-    * [上傳的3D模型定位或面向不正確怎麼辦？](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-de-3d-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
-  * [以 IPFS 上傳作品](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/README.md)
-    * [akaSwap](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/akaswap.md)
-    * [OpenSea](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
-  * [作品資訊欄-文字編輯器功能](bian-ji-zhan-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/zuo-pin-zi-xun-lan-wen-zi-bian-ji-qi-gong-neng.md)
-* [管理作品](bian-ji-zhan-jian-zuo-pin/guan-li-zuo-pin.md)
+* [空間編輯頁](bian-ji-kong-jian-zuo-pin/jin-ru-shang-chuan-bian-ji-ye-ye.md)
+* [上傳主視覺海報](bian-ji-kong-jian-zuo-pin/zhu-shi-jue-hai-bao.md)
+* [上傳壁貼](bian-ji-kong-jian-zuo-pin/zuo-pin.md)
+* [上傳舞台模型](bian-ji-kong-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/README.md)
+  * [上傳的舞台模型定位或面向不正確怎麼辦？](bian-ji-kong-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
+* [上傳作品](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/README.md)
+  * [上傳圖片](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian/README.md)
+    * [想上傳的圖片超過 5mb 該怎麼做?](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian/xiang-shang-chuan-de-tu-pian-chao-guo-5mb-gai-zen-mo-zuo.md)
+  * [上傳影片](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-ying-pian.md)
+  * [上傳聲音](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-sheng-yin.md)
+  * [上傳網址](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-zhi/README.md)
+    * [為什麼上傳成功的網頁在前台不能看，顯示拒絕連線？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-zhi/wei-shi-mo-shang-chuan-cheng-gong-de-wang-ye-zai-qian-tai-bu-neng-kan-xian-shi-ju-jue-lian-xian.md)
+  * [上傳 3D 模型](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/README.md)
+    * [我的 3D 模型太大或是格式不符導致上傳失敗該怎麼辦？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
+    * [為什麼上傳 gltf 模型檔時顯示上傳失敗？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wei-shi-mo-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
+    * [上傳的3D模型定位或面向不正確怎麼辦？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-de-3d-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
+  * [以 IPFS 上傳作品](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/README.md)
+    * [akaSwap](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/akaswap.md)
+    * [OpenSea](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
+  * [作品資訊欄-文字編輯器功能](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/zuo-pin-zi-xun-lan-wen-zi-bian-ji-qi-gong-neng.md)
+* [管理作品](bian-ji-kong-jian-zuo-pin/guan-li-zuo-pin.md)
 
 ## 預覽、公開及分享展覽
 

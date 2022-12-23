@@ -4,4 +4,4 @@
 
 請點擊「Google」按鈕使用你的 Google 帳號登入 Virsody，使用 Google 登入無須驗證信箱。
 
-![](../.gitbook/assets/05.png)
+<figure><img src="../.gitbook/assets/Frame 5.png" alt=""><figcaption></figcaption></figure>

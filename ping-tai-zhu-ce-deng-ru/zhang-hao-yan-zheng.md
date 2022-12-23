@@ -4,4 +4,4 @@
 
 <mark style="color:red;">**注意事項：信箱將是您的帳號名稱。**</mark>
 
-![](../.gitbook/assets/04.png)
+<figure><img src="../.gitbook/assets/Frame 4.png" alt=""><figcaption></figcaption></figure>

@@ -8,4 +8,4 @@ Virsody 平台上有許多公開的展間供瀏覽，你可以透過進入「展
 
 目前能上傳的作品有：圖片、影片、聲音、3D 模型及可嵌入的網頁；這部分之後會有更詳細的介紹。
 
-![](<../.gitbook/assets/Virsody 教學\_白片.pptx.png>)
+<figure><img src="../.gitbook/assets/virsody.io_explore.png" alt=""><figcaption></figcaption></figure>

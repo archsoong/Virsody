@@ -6,7 +6,7 @@
 
 3D 模型提供兩種展示設定方式，第一種是讓 3D 模型可以在展間看到模型的「用展示台陳列模型」。
 
-![](<../../.gitbook/assets/截圖 2022-04-07 下午10.22.34.png>)
+![](<../../../.gitbook/assets/截圖 2022-04-07 下午10.22.34.png>)
 
 第二種則是「透過展示圖片預覽模型」，在展間只會看到提供的預覽圖片，點擊後展開作品資訊頁面後才會看到 3D 模型。
 
@@ -16,13 +16,13 @@
 
 <mark style="color:blue;">**備註：展台的 3D 模型的錨點會設定在展台上方一定距離。**</mark>
 
-![](<../../.gitbook/assets/截圖 2022-04-08 下午1.26.02.png>)
+![](<../../../.gitbook/assets/截圖 2022-04-08 下午1.26.02.png>)
 
 ### 上傳3D模型問題QA
 
-#### [🔘我的3D模型太大或是格式不符導致上傳失敗該怎麼辦？](shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
+#### [🔘我的3D模型太大或是格式不符導致上傳失敗該怎麼辦？](wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
 
-#### [🔘](shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)[上傳gltf模型檔時顯示上傳失敗](shang-chuan-3d-mo-xing/wei-shi-mo-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
+#### [🔘](wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)[上傳gltf模型檔時顯示上傳失敗](wei-shi-mo-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
 
 
 
