@@ -1,16 +1,14 @@
-# 公開展覽
+# 公開空間
 
-當你完成展間想要讓其他人來逛時，你可以點擊「公開/不公開」按鍵允許訪客將參觀你的展覽。
+當你完成空間的作品上傳，並想要讓其他人來參觀時，可點擊「公開/不公開」按鍵允許訪客參觀你建立的空間；反之，如果暫時不希望被別人看到，則可設定為不公開。
 
-![](<../../.gitbook/assets/截圖 2022-04-08 下午1.58.37.png>)
+而空間「公開/不公開」的狀態會直接顯示在頁面上方。
 
-如果你暫時不希望被看到，也可以藉此設定為不公開，「公開/不公開」的狀態會直接顯示在圖示上。
+<figure><img src="../../.gitbook/assets/Frame 49.png" alt=""><figcaption></figcaption></figure>
 
-![](<../../.gitbook/assets/截圖 2022-04-08 下午2.19.30.png>)
+<figure><img src="../../.gitbook/assets/Frame 48.png" alt=""><figcaption></figcaption></figure>
 
 
 
-### 上傳網址問題QA
-
-#### 🔘[展覽不想公開，只想給知道展覽的人看該怎麼做?](zhan-lan-bu-xiang-gong-kai-zhi-xiang-gei-zhi-dao-zhan-lan-de-ren-kan-gai-zen-mo-zuo.md)
+#### 🔘 [展覽不想公開，只想給知道展覽的人看該怎麼做?](ruo-kong-jian-bu-xiang-gong-kai-zhi-xiang-gei-te-ding-de-ren-kan-gai-zen-mo-zuo.md)
 

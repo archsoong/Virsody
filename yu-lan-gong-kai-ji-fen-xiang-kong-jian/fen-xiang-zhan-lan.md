@@ -1,7 +1,17 @@
-# 分享展覽
+# 分享空間
 
-如果你已經公開了展覽，可以藉由「分享」按鍵前往展覽頁面，並複製連結來進行分享。 ****&#x20;
+如果你已經公開了空間，可以藉由「分享」按鍵前往展覽頁面，並複製連結來進行分享。 **** 只要拿到連結者，即可參觀你建立的空間！
 
-<mark style="color:red;">**注意事項：如您的展覽公開狀態設定為「不公開」，訪客由連結進入時將無法看到展覽。**</mark>
+<figure><img src="../.gitbook/assets/Frame 51.png" alt=""><figcaption></figcaption></figure>
 
-![](<../.gitbook/assets/截圖 2022-04-08 下午2.22.04.png>)
+<figure><img src="../.gitbook/assets/Frame 52.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/截圖 2022-12-23 下午5.09.37.png" alt=""><figcaption></figcaption></figure>
+
+若您的展覽公開狀態設定為「不公開」，訪客由連結進入時將無法看到展覽。
+
+<figure><img src="../.gitbook/assets/截圖 2022-12-23 下午5.02.31.png" alt=""><figcaption></figcaption></figure>
+
+<mark style="color:red;">**注意：「基礎方案」的使用者公開空間後，空間上方會帶有 Virsody 的品牌廣告，若想要消除該廣告，需升級為「創作者方案」或「進階方案」。**</mark>
+
+<figure><img src="../.gitbook/assets/Frame 53.png" alt=""><figcaption></figcaption></figure>
