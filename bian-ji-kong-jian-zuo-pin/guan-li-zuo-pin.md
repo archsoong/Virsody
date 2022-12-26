@@ -4,6 +4,6 @@
 
 <figure><img src="../.gitbook/assets/Frame 44.png" alt=""><figcaption></figcaption></figure>
 
-點擊上傳完成的作品點位，可對該作品進行「編輯」或「刪除」，在右側的展品清單上一樣也可以執行同樣的功能來管理作品。
+點擊上傳完成的展品點位，可對該展品進行「編輯」或「刪除」，在右側的展品清單上一樣也可以執行同樣的功能來管理展品。
 
 <figure><img src="../.gitbook/assets/Frame 45.png" alt=""><figcaption></figcaption></figure>

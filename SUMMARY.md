@@ -4,7 +4,7 @@
 
 ## 線上虛擬策展平台
 
-* [展間及作品類別介紹](xu-ni-xian-shang-zhan-lan-jie-shao/zhan-chang-kong-jian-ji-zhan-shi-xing-tai-jie-shao.md)
+* [空間及展品類別介紹](xu-ni-xian-shang-zhan-lan-jie-shao/zhan-chang-kong-jian-ji-zhan-shi-xing-tai-jie-shao.md)
 
 ## 平台註冊及登入
 
@@ -32,7 +32,7 @@
 * [上傳壁貼](bian-ji-kong-jian-zuo-pin/zuo-pin.md)
 * [上傳舞台模型](bian-ji-kong-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/README.md)
   * [上傳的舞台模型定位或面向不正確怎麼辦？](bian-ji-kong-jian-zuo-pin/shang-chuan-wu-tai-mo-xing/shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
-* [上傳作品](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/README.md)
+* [上傳展品](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/README.md)
   * [上傳圖片](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian/README.md)
     * [想上傳的圖片超過 5mb 該怎麼做?](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-tu-pian/xiang-shang-chuan-de-tu-pian-chao-guo-5mb-gai-zen-mo-zuo.md)
   * [上傳影片](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-ying-pian.md)

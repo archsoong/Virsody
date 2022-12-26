@@ -1,6 +1,6 @@
 # 上傳舞台模型
 
-部分展間房型會提供一個特定的「舞台」擺放大型的 3D 模型，可用來放置品牌的 3D Logo 或特色物件。若不進行更動，此舞台模型預設為 Virsody 的 3D Logo。
+部分空間房型會提供一個特定的「舞台」擺放大型的 3D 模型，可用來放置品牌的 3D Logo 或特色物件。若不進行更動，此舞台模型預設為 Virsody 的 3D Logo。
 
 <figure><img src="../../.gitbook/assets/Frame 41.png" alt=""><figcaption></figcaption></figure>
 

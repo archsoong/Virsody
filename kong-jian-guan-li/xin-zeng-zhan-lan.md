@@ -12,7 +12,7 @@
 
 <figure><img src="../.gitbook/assets/Frame 10.png" alt=""><figcaption></figcaption></figure>
 
-接著，請填寫「展覽名稱」及「網址名稱」後，按下「建立」即可完成新增空間。
+接著，請填寫「空間名稱」及「網址名稱」後，按下「建立」即可完成新增空間。
 
 <mark style="color:red;">**注意事項：空間主題和網址名稱在建立後不可更改！**</mark>
 
