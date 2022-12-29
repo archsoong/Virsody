@@ -1,4 +1,4 @@
-# 想上傳的圖片超過 5mb 該怎麼做?
+# 💡 想上傳的圖片超過 5mb 該怎麼做?
 
 若圖片因各種考量而無法壓縮到5mb以下時，您可以參考下列方式來呈現您的原圖給參觀者看:
 
@@ -46,5 +46,5 @@ Step 4. 返回 Virsody 的上傳作品系統，點選「網頁」，並將連結
 
 Step 5. 完成以「網頁」形式外嵌上傳大於5mb的圖片。
 
-![](<../../../.gitbook/assets/image (10).png>)
+<figure><img src="../../../.gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
