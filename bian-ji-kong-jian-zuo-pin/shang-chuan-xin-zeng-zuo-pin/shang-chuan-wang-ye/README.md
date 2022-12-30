@@ -10,7 +10,7 @@ Virsody 提供網址載入的服務，我們提供一個參考的網址：[https
 
 上傳和填寫必要欄位完成上傳後，在展間會看到上傳的預覽圖，點擊作品後會如下所示。
 
-![](<../../../.gitbook/assets/截圖 2022-04-08 下午1.29.20.png>)
+<figure><img src="../../../.gitbook/assets/截圖 2022-12-30 下午6.11.45.png" alt=""><figcaption></figcaption></figure>
 
 ### 上傳網址問題QA
 
