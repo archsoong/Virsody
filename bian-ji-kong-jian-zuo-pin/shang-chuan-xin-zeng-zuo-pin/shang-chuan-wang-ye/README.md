@@ -14,8 +14,8 @@ Virsody 提供網址載入的服務，我們提供一個參考的網址：[https
 
 ### 上傳網址問題QA
 
-💡 該如何利用「上傳網址」來嵌入簡報？
+💡 該如何嵌入簡報？
 
-💡 該如何利用「上傳網址」來嵌入 360 還景圖？
+💡 該如何嵌入 360 還景圖？
 
 ⚠️ [為什麼上傳成功的網頁在前台不能看，顯示拒絕連線 ?](wei-shi-mo-shang-chuan-cheng-gong-de-wang-ye-zai-qian-tai-bu-neng-kan-xian-shi-ju-jue-lian-xian.md)
