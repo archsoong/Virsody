@@ -39,7 +39,7 @@
   * [上傳聲音](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-sheng-yin.md)
   * [上傳網頁](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/README.md)
     * [💡 該如何嵌入簡報？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-jian-bao/README.md)
-      * [如何嵌入 Google Slides？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-jian-bao/ru-he-qian-ru-google-slides.md)
+      * [如何嵌入 Google slides？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-jian-bao/ru-he-qian-ru-google-slides.md)
       * [如何嵌入 Canva ？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-jian-bao/ru-he-qian-ru-canva.md)
     * [💡 該如何嵌入 360 還景圖？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-360-huan-jing-tu.md)
       * [如何嵌入 kuula ?](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-360-huan-jing-tu/ru-he-qian-ru-kuula.md)
