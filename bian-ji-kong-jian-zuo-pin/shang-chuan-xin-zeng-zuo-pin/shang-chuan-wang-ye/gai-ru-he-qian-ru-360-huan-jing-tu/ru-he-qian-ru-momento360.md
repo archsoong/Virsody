@@ -42,6 +42,6 @@
 
 
 
-建立完成後，即可讓參觀者在虛擬空間中觀看，並拖曳畫面查看 360 還景圖
+建立完成後，即可讓參觀者在虛擬空間中觀看，並拖曳畫面查看 360 環景圖
 
 <figure><img src="../../../../.gitbook/assets/momento360.gif" alt=""><figcaption></figcaption></figure>
