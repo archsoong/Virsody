@@ -41,7 +41,7 @@
     * [💡 該如何嵌入簡報？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-jian-bao/README.md)
       * [如何嵌入 Google slides？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-jian-bao/ru-he-qian-ru-google-slides.md)
       * [如何嵌入 Canva ？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-jian-bao/ru-he-qian-ru-canva.md)
-    * [💡 該如何嵌入 360 還景圖？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-360-huan-jing-tu.md)
+    * [💡 該如何嵌入 360 環景圖？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-360-huan-jing-tu.md)
       * [如何嵌入 kuula ?](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-360-huan-jing-tu/ru-he-qian-ru-kuula.md)
       * [如何嵌入 Momento360 ?](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/gai-ru-he-qian-ru-360-huan-jing-tu/ru-he-qian-ru-momento360.md)
     * [⚠️ 為什麼上傳成功的網頁在前台不能看，顯示拒絕連線？](bian-ji-kong-jian-zuo-pin/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/wei-shi-mo-shang-chuan-cheng-gong-de-wang-ye-zai-qian-tai-bu-neng-kan-xian-shi-ju-jue-lian-xian.md)
