@@ -16,7 +16,7 @@
 * [刪除空間](kong-jian-guan-li/shan-chu-zhan-lan.md)
 * [徹底移除 / 還原空間](kong-jian-guan-li/hui-shou-chang.md)
 * [公開空間](kong-jian-guan-li/gong-kai-bu-gong-kai-zhan-lan/README.md)
-  * [💡 若空間不想公開，只想給特定的人看該怎麼做?](kong-jian-guan-li/gong-kai-bu-gong-kai-zhan-lan/ruo-kong-jian-bu-xiang-gong-kai-zhi-xiang-gei-te-ding-de-ren-kan-gai-zen-mo-zuo.md)
+  * [⚠️  若空間不想公開，只想給特定的人看該怎麼做?](kong-jian-guan-li/gong-kai-bu-gong-kai-zhan-lan/ruo-kong-jian-bu-xiang-gong-kai-zhi-xiang-gei-te-ding-de-ren-kan-gai-zen-mo-zuo.md)
 * [分享空間](kong-jian-guan-li/fen-xiang-zhan-lan.md)
 * [預覽空間](kong-jian-guan-li/yu-lan-zhan-lan.md)
 
