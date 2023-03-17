@@ -20,9 +20,11 @@
 
 ### 上傳3D模型問題QA
 
-#### [🔘我的3D模型太大或是格式不符導致上傳失敗該怎麼辦？](wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
+#### [⚠️ 我的3D模型太大或是格式不符導致上傳失敗該怎麼辦？](./#wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-me-ban)
 
-#### [🔘](wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)[上傳gltf模型檔時顯示上傳失敗](wei-shi-mo-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
+#### [⚠️ 為什麼上傳 gltf 模型檔時顯示上傳失敗？](./#wei-shen-me-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai)
+
+#### [⚠ 上傳的3D模型定位或面向不正確怎麼辦？](./#shang-chuan-de-3d-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-me-ban)
 
 
 

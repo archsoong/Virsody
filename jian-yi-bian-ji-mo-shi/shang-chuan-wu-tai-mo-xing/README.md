@@ -4,9 +4,13 @@
 
 <figure><img src="../../.gitbook/assets/Frame 41.png" alt=""><figcaption></figcaption></figure>
 
+
+
 若想更改此舞台模型，首先須先升級為「進階方案」。升級完成後在後台編輯的空間地圖上，找到並點擊空間中心點的粉紅色「+」點。
 
 <figure><img src="../../.gitbook/assets/Frame 40 (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 點擊後會出現上傳的彈窗 ( 格式為 10MB 以下的 .glb 或 .gltf 檔 )，上傳完後再填寫「舞台模型名稱」即可儲存完成。
 
@@ -14,9 +18,18 @@
 
 <figure><img src="../../.gitbook/assets/Frame 43.png" alt=""><figcaption></figcaption></figure>
 
+
+
 上傳後再次進入空間瀏覽，便可看到新的舞台上傳了！
 
 <figure><img src="../../.gitbook/assets/Frame 42.png" alt=""><figcaption></figcaption></figure>
 
+
+
 是不是覺得很有趣？馬上使用「進階方案」試試看「更換舞台模型」的功能吧！
 
+
+
+### 上傳舞台模型問題QA
+
+****[**⚠️ 上傳的舞台模型定位或面向不正確怎麼辦？**](shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)****

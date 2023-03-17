@@ -10,5 +10,11 @@
 
 
 
-#### 🔘 [展覽不想公開，只想給知道展覽的人看該怎麼做?](ruo-kong-jian-bu-xiang-gong-kai-zhi-xiang-gei-te-ding-de-ren-kan-gai-zen-mo-zuo.md)
+當你確認公開空間後，你將可以在 Virsody 的展覽大廳看到你的空間入口：[https://virsody.io/explore](https://virsody.io/explore)
+
+<figure><img src="../../.gitbook/assets/Frame 56.png" alt=""><figcaption></figcaption></figure>
+
+####
+
+#### 💡 [展覽不想公開，只想給知道展覽的人看該怎麼做?](ruo-kong-jian-bu-xiang-gong-kai-zhi-xiang-gei-te-ding-de-ren-kan-gai-zen-mo-zuo.md)
 

@@ -20,7 +20,7 @@
 
 
 
-### 上傳網址問題QA
+### 上傳圖片問題QA
 
-#### 🔘[想上傳的圖片超過 5mb 該怎麼做?](xiang-shang-chuan-de-tu-pian-chao-guo-5mb-gai-zen-mo-zuo.md)
+[ ⚠️ 想上傳的圖片超過 5mb 該怎麼做?](./#xiang-shang-chuan-de-tu-pian-chao-guo-5mb-gai-zen-me-zuo)
 
