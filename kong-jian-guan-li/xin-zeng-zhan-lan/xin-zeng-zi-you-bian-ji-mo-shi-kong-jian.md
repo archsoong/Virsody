@@ -17,5 +17,8 @@
 建立完成後，會回到「我的空間」頁，則會顯示建立了一個新的自由編輯模式空間。\
 空間的封面為預設圖片，後續可自行更換空間封面。
 
-<figure><img src="../../.gitbook/assets/Frame 83.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 83 (1).png" alt=""><figcaption></figcaption></figure>
 
+
+
+🌟 想詳細了解如何編輯「簡易編輯模式」的空間，可前往 **自由編輯模式操作介紹**
