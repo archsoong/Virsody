@@ -7,8 +7,8 @@ Virsody 提供最簡易的操作方式，讓你可以快速建立專屬的線上
 
 <figure><img src=".gitbook/assets/截圖 2022-12-21 下午2.32.09.png" alt=""><figcaption></figcaption></figure>
 
-進入 Virsody 官網：[https://virsody.io/](https://virsody.io/)
-
+\
+進入 Virsody 官網：[https://virsody.io/](https://virsody.io/)\
 你也可以透過在「展場大廳」參觀他人建立的虛擬展示空間。各式各樣風格、大小不一的虛擬空間等你盡情探索！
 
 <figure><img src=".gitbook/assets/virsody.io_explore.png" alt=""><figcaption></figcaption></figure>
