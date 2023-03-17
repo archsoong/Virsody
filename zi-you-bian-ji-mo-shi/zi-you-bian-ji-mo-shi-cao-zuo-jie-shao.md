@@ -10,6 +10,8 @@
 
 <figure><img src="../.gitbook/assets/Frame 85.png" alt=""><figcaption></figcaption></figure>
 
+
+
 接著，會進入到自由編輯模式的登入頁，請一樣使用你的帳號進行登入。
 
 <figure><img src="../.gitbook/assets/Frame 87.png" alt=""><figcaption></figcaption></figure>
@@ -22,11 +24,10 @@
 
 
 
-成功進入自由編輯器裡！
+成功進入該空間的自由編輯器！
 
 <figure><img src="../.gitbook/assets/Frame 89.png" alt=""><figcaption></figcaption></figure>
 
-
-
 自由編輯器的主要功能區域分為：Hierarchy、ToolBar、SceneView、Inspector。\
-接下來將逐步介紹上述各區域之功能！
+接下來將逐步介紹各區域之功能！
+
