@@ -10,7 +10,9 @@
 
 ## 空間管理
 
-* [新增空間](kong-jian-guan-li/xin-zeng-zhan-lan.md)
+* [新增空間](kong-jian-guan-li/xin-zeng-zhan-lan/README.md)
+  * [新增「簡易模式」空間](kong-jian-guan-li/xin-zeng-zhan-lan/xin-zeng-jian-yi-mo-shi-kong-jian.md)
+  * [新增「自由編輯模式」空間](kong-jian-guan-li/xin-zeng-zhan-lan/xin-zeng-zi-you-bian-ji-mo-shi-kong-jian.md)
 * [刪除空間](kong-jian-guan-li/shan-chu-zhan-lan.md)
 * [回收場](kong-jian-guan-li/hui-shou-chang.md)
 * [空間數量限制](kong-jian-guan-li/zhan-lan-dang-an-shu-liang.md)
