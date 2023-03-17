@@ -5,7 +5,7 @@
 ## 註冊及登入
 
 * [註冊帳號](zhu-ce-ji-deng-ru/qie-huan-deng-ru-zhu-ce.md)
-* [第三方註冊及登入](zhu-ce-ji-deng-ru/di-san-fang-deng-ru.md)
+* [第三方登入 (Google)](zhu-ce-ji-deng-ru/di-san-fang-deng-ru.md)
 * [忘記密碼](zhu-ce-ji-deng-ru/wang-ji-mi-ma.md)
 
 ## 空間管理
