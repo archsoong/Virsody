@@ -54,6 +54,10 @@
     * [2 OpenSea](jian-yi-bian-ji-mo-shi/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
   * [作品資訊 - 文字編輯器功能](jian-yi-bian-ji-mo-shi/shang-chuan-xin-zeng-zuo-pin/zuo-pin-zi-xun-wen-zi-bian-ji-qi-gong-neng.md)
 
+## 自由編輯模式
+
+* [自由編輯模式操作介紹](zi-you-bian-ji-mo-shi/zi-you-bian-ji-mo-shi-cao-zuo-jie-shao.md)
+
 ## 服務方案
 
 * [基礎方案](fu-wu-fang-an/fen-xiang-zhan-lan.md)
