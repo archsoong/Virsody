@@ -30,8 +30,14 @@
 
 
 
-自由編輯器的主要功能區域分為：圖層面板 (Hierarchy)、工具欄 (ToolBar)、畫布 (SceneView)、屬性面板 (Inspector)。\
-接下來將逐步介紹各區域之功能！
+自由編輯器的主要功能區域分為：\
+1\. 圖層面板 (Hierarchy)\
+2\. 工具欄 (ToolBar)\
+3\. 畫布 (SceneView)\
+4.屬性面板 (Inspector)。
 
-<figure><img src="../.gitbook/assets/Frame 90.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 90 (1).png" alt=""><figcaption></figcaption></figure>
 
+
+
+接下來將逐步介紹上述自由編輯器各區域之功能！
