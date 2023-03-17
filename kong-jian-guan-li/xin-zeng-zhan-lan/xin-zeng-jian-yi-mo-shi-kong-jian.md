@@ -32,3 +32,5 @@
 空間的封面為預設圖片，後續可自行更換空間封面。
 
 <figure><img src="../../.gitbook/assets/Frame 12.png" alt=""><figcaption></figcaption></figure>
+
+想詳細了解「簡易編輯模式」的操作方式，可前往 [**簡易編輯模式操作介紹**](../../jian-yi-bian-ji-mo-shi/jin-ru-shang-chuan-bian-ji-ye-ye.md)****
