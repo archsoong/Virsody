@@ -2,12 +2,11 @@
 
 * [關於 Virsody](README.md)
 
-## 平台註冊及登入
+## 註冊及登入
 
-* [註冊帳號](ping-tai-zhu-ce-deng-ru/qie-huan-deng-ru-zhu-ce.md)
-* [驗證信箱](ping-tai-zhu-ce-deng-ru/zhang-hao-yan-zheng.md)
-* [第三方註冊及登入](ping-tai-zhu-ce-deng-ru/di-san-fang-deng-ru.md)
-* [忘記密碼](ping-tai-zhu-ce-deng-ru/wang-ji-mi-ma.md)
+* [註冊帳號](zhu-ce-ji-deng-ru/qie-huan-deng-ru-zhu-ce.md)
+* [第三方註冊及登入](zhu-ce-ji-deng-ru/di-san-fang-deng-ru.md)
+* [忘記密碼](zhu-ce-ji-deng-ru/wang-ji-mi-ma.md)
 
 ## 空間管理
 
