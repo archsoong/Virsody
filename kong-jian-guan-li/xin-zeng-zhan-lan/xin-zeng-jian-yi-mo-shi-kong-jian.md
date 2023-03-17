@@ -2,7 +2,7 @@
 
 選擇「簡易模式」。
 
-<figure><img src="../../.gitbook/assets/截圖 2023-03-17 下午2.49.07 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 81.png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -20,7 +20,7 @@
 
 
 
-接著，請填寫「空間名稱」及「網址名稱」後，按下「建立」即完成新增簡易模式的空間。
+接著，請填寫「空間名稱」及「網址名稱」後，按下「建立」即完成新增空間。
 
 <mark style="color:red;">**注意事項：網址名稱在建立後不可更改！**</mark>
 
@@ -28,7 +28,7 @@
 
 
 
-建立完成後，會回到「我的空間」頁，澤慧顯示建立了一個新的空間。\
-空間的封面皆為預設，可在後續再自行更換。
+建立完成後，會回到「我的空間」頁，則會顯示建立了一個新的簡易模式空間。\
+空間的封面為預設圖片，後續可自行更換空間封面。
 
 <figure><img src="../../.gitbook/assets/Frame 12.png" alt=""><figcaption></figcaption></figure>
