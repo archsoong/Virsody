@@ -2,10 +2,6 @@
 
 * [關於 Virsody](README.md)
 
-## 線上虛擬策展平台
-
-* [空間及展品類別介紹](xu-ni-xian-shang-zhan-lan-jie-shao/zhan-chang-kong-jian-ji-zhan-shi-xing-tai-jie-shao.md)
-
 ## 平台註冊及登入
 
 * [註冊帳號](ping-tai-zhu-ce-deng-ru/qie-huan-deng-ru-zhu-ce.md)
