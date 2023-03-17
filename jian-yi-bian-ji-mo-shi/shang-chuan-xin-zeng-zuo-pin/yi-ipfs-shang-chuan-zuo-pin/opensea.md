@@ -2,7 +2,7 @@
 description: 如何在 OpenSea 上用 IPFS 上傳作品
 ---
 
-# OpenSea
+# 2 OpenSea
 
 將作品上傳至 [OpenSea](https://opensea.io/) 後，點擊作品頁面下方的<mark style="color:blue;">「Details」</mark>。
 

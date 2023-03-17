@@ -1,4 +1,4 @@
-# 如何嵌入 Google slides？
+# 1 嵌入 Google slides
 
 先打開想嵌入的 Google slides 簡報，並依序點擊「檔案」>「共用」>「發布到網路」
 

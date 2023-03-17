@@ -16,4 +16,4 @@
 
 而在空間地圖上，上傳完成的「壁貼」會顯示成為「綠色」的點位。
 
-<figure><img src="../.gitbook/assets/Frame 39.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 39 (1).png" alt=""><figcaption></figcaption></figure>

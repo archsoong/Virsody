@@ -1,4 +1,4 @@
-# 如何嵌入 kuula ?
+# 1 嵌入 kuula
 
 首先請先進入 [kuula官網](https://kuula.co/about) 進行註冊 / 登入
 

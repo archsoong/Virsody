@@ -1,4 +1,4 @@
-# 如何嵌入 Momento360 ?
+# 2 嵌入 Momento360
 
 首先請先進入[ Momento360官網](https://momento360.com) 進行註冊 / 登入，登入後點擊「MY MEDIA」進入個人後台
 
