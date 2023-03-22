@@ -32,10 +32,19 @@
 
 自由編輯器的主要功能區域分為：
 
-1\. 圖層面板 (Hierarchy)\
-2\. 工具欄 (ToolBar)\
+1\. 物件階層 (Hierarchy)\
+&#x20;   場景裡面全部的物件都表列於此，如果物件是由多個子物件所組成的話，也可以在此處展開。
+
+\
+2\. 工具列 (ToolBar)\
+&#x20;   針對物件常用的操作
+
+\
 3\. 場景 (SceneView)\
-4\. 屬性面板 (Inspector)
+&#x20;   主要會顯示你現在選擇的物件，它是最主要的編輯視窗，由三維空間(x,y,z)構成，通常會搭配商方的控  制工具來進行編輯。
+
+\
+4\. 物件屬性 (Inspector)
 
 <figure><img src="../.gitbook/assets/Frame 90 (2).png" alt=""><figcaption></figcaption></figure>
 
