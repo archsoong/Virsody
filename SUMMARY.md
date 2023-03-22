@@ -57,6 +57,28 @@
 ## 自由編輯模式
 
 * [自由編輯模式操作介紹](zi-you-bian-ji-mo-shi/zi-you-bian-ji-mo-shi-cao-zuo-jie-shao.md)
+* [視角控制](zi-you-bian-ji-mo-shi/shi-jiao-kong-zhi.md)
+* [物件階層 (Hierarchy)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/README.md)
+  * [環境背景設定](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/huan-jing-bei-jing-she-ding.md)
+  * [物件階層清單](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-qing-dan/README.md)
+    * [💡 調整參觀者視角 (Player camera)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-qing-dan/diao-zheng-can-guan-zhe-shi-jiao-player-camera.md)
+  * [場景效能檢視 (Performance)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/chang-jing-xiao-neng-jian-shi-performance.md)
+* [物件工具欄 (ToolBar)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/README.md)
+  * [新增 3D 物件 (Asset Library)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/xin-zeng-3d-wu-jian-asset-library.md)
+  * [上傳自製模型](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/shang-chuan-zi-zhi-mo-xing.md)
+  * [物件移動、旋轉、縮放](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/wu-jian-yi-dong-xuan-zhuan-suo-fang.md)
+  * [物件水平 / 垂直翻轉](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/wu-jian-shui-ping-chui-zhi-fan-zhuan.md)
+  * [物件上鎖、隱藏、刪除、瞄準](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/wu-jian-shang-suo-yin-cang-shan-chu-miao-zhun.md)
+* [場景 (SceneView)](zi-you-bian-ji-mo-shi/chang-jing-sceneview/README.md)
+  * [物件三軸 (Gizmo)](zi-you-bian-ji-mo-shi/chang-jing-sceneview/wu-jian-san-zhou-gizmo.md)
+  * [場景儲存、預覽、視野回歸原點](zi-you-bian-ji-mo-shi/chang-jing-sceneview/chang-jing-chu-cun-yu-lan-shi-ye-hui-gui-yuan-dian.md)
+* [物件屬性 (Inspector)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/README.md)
+  * [物件重新命名、瞄準、上鎖、刪除](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/wu-jian-zhong-xin-ming-ming-miao-zhun-shang-suo-shan-chu.md)
+  * [屬性設定 (Property)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/README.md)
+    * [💡 物件移動、旋轉、縮放 (Transform)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/wu-jian-yi-dong-xuan-zhuan-suo-fang-transform.md)
+    * [💡 物件碰撞 / 透明度設定 (Other)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/wu-jian-peng-zhuang-tou-ming-du-she-ding-other.md)
+    * [💡 物件材質調整 (Material)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/wu-jian-cai-zhi-diao-zheng-material.md)
+  * [資訊版設定 (Action)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/zi-xun-ban-she-ding-action.md)
 
 ## 服務方案
 

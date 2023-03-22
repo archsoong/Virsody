@@ -24,30 +24,33 @@
 
 
 
-成功進入該空間的自由編輯器！
+成功進入該空間的自由編輯器！\
+點擊「← Back 」，即可返回上面的自由編輯空間頁 (Space Collection)。
 
-<figure><img src="../.gitbook/assets/Frame 89.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Frame 89 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
-自由編輯器的主要功能區域分為：
+自由編輯器的主要功能區域為：
 
-1\. 物件階層 (Hierarchy)\
-&#x20;   場景裡面全部的物件都表列於此，如果物件是由多個子物件所組成的話，也可以在此處展開。
-
-\
-2\. 工具列 (ToolBar)\
-&#x20;   針對物件常用的操作
+<mark style="color:blue;">**1. 物件階層 (Hierarchy)**</mark>\
+場景裡面全部的物件都表列於此，如果物件是由多個子物件所組成的話，也可以在此處展開。
 
 \
-3\. 場景 (SceneView)\
-&#x20;   主要會顯示你現在選擇的物件，它是最主要的編輯視窗，由三維空間(x,y,z)構成，通常會搭配商方的控  制工具來進行編輯。
+<mark style="color:blue;">**2. 工具列 (ToolBar)**</mark>\
+針對物件常用的操作。
 
 \
-4\. 物件屬性 (Inspector)
+<mark style="color:blue;">**3. 場景 (SceneView)**</mark>\
+主要會顯示你現在選擇的物件，它是最主要的編輯視窗，由三維空間(x,y,z)構成，通常會搭配物件三軸 (Gizmo) 的控制工具來進行編輯。
 
-<figure><img src="../.gitbook/assets/Frame 90 (2).png" alt=""><figcaption></figcaption></figure>
+\
+<mark style="color:blue;">**4. 物件屬性 (Inspector)**</mark>
 
 
 
-接下來將逐步介紹上述自由編輯器各區域之功能！
+<figure><img src="../.gitbook/assets/Frame 90 (4).png" alt=""><figcaption></figcaption></figure>
+
+
+
+接下來將逐步介紹自由編輯器的各項功能！
