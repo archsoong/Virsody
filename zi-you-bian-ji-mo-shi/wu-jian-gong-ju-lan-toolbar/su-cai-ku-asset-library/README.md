@@ -22,8 +22,6 @@
 
 <figure><img src="../../../.gitbook/assets/Frame 105 (1).png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">****</mark>
-
 <mark style="color:blue;">**3.場景模板 (Template)**</mark> ：可利用現成的場景模板再進行客製化的修改！
 
 <figure><img src="../../../.gitbook/assets/Frame 107 (1).png" alt=""><figcaption></figcaption></figure>
