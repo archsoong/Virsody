@@ -30,6 +30,6 @@
 
 
 
-### 上傳舞臺模型問題QA
+### 上傳舞臺模型問題 QA
 
-****[**⚠️ 上傳的舞台模型定位或面向不正確怎麼辦？**](shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)****
+****[**⚠️ 上傳的舞臺模型定位或面向不正確怎麼辦？**](shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)****
