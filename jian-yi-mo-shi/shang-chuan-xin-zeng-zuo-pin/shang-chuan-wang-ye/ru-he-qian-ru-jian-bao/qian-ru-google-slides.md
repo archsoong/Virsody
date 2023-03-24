@@ -20,7 +20,7 @@
 
 
 
-回到 Virsody 後台，將剛複製的網址貼到「上傳網頁」的輸入框內，並完成展品建立
+回到 Virsody 後臺，將剛複製的網址貼到「上傳網頁」的輸入框內，並完成展品建立
 
 <figure><img src="../../../../.gitbook/assets/Frame 61.png" alt=""><figcaption></figcaption></figure>
 
