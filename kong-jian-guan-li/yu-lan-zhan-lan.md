@@ -1,6 +1,6 @@
 # 預覽空間
 
-當你佈置完空間後，想在正式公開前先預覽空間，可點擊「預覽」進行空間的事先預覽。&#x20;
+當佈置完空間後，想在正式公開前先預覽空間，可點擊「預覽」進行空間的事先預覽。&#x20;
 
 <figure><img src="../.gitbook/assets/Frame 46 (1).png" alt=""><figcaption></figcaption></figure>
 
