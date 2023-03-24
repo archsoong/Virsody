@@ -16,13 +16,13 @@ description: 如何在 akaSwap 上用 IPFS 上傳作品
 
 
 
-回到Virsody後，將連結貼至IPFS連結輸入框中，並點選<mark style="color:blue;">「檢查連線」</mark>按鈕。
+回到 Virsody 後，將連結貼至 IPFS 連結輸入框中，並點選<mark style="color:blue;">「檢查連線」</mark>按鈕。
 
 ![](<../../../.gitbook/assets/截圖 2022-06-07 下午4.27.08.png>)
 
 
 
-系統便會自動判定IPFS作品的檔案類型，並呈現預覽圖。沒問題後便可按「下一步」完成步驟上傳。
+系統便會自動判定 IPFS 作品的檔案類型，並呈現預覽圖。沒問題後便可按「下一步」完成步驟上傳。
 
 ![](<../../../.gitbook/assets/截圖 2022-06-07 下午4.34.29.png>)
 
