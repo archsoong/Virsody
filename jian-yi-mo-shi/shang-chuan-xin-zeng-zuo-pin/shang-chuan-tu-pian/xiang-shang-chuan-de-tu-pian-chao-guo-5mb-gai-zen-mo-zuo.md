@@ -40,7 +40,7 @@ Step 3. 上傳後，請複製此圖片網址
 
 Step 4. 返回 Virsody 的上傳作品系統，點選「網頁」，並將連結貼至欄位中，依照流程完成上傳。
 
-![](../../../.gitbook/assets/image.png)
+![](<../../../.gitbook/assets/image (3).png>)
 
 
 

@@ -29,7 +29,7 @@
 
 * [簡易模式操作介紹](jian-yi-mo-shi/jin-ru-shang-chuan-bian-ji-ye-ye.md)
 * [上傳主視覺海報](jian-yi-mo-shi/zhu-shi-jue-hai-bao.md)
-* [上傳舞台模型](jian-yi-mo-shi/shang-chuan-wu-tai-mo-xing/README.md)
+* [上傳舞臺模型](jian-yi-mo-shi/shang-chuan-wu-tai-mo-xing/README.md)
   * [⚠️ 上傳的舞台模型定位或面向不正確怎麼辦？](jian-yi-mo-shi/shang-chuan-wu-tai-mo-xing/shang-chuan-de-wu-tai-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
 * [上傳壁貼](jian-yi-mo-shi/zuo-pin.md)
 * [上傳展品](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/README.md)
