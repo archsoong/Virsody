@@ -10,7 +10,7 @@
 
 
 
-系統將發送重設密碼信給你的信箱，點擊信內的「重設密碼」按鈕連結。
+系統將發送重設密碼信至你的信箱，點擊信內的「重設密碼」按鈕連結。
 
 <figure><img src="../.gitbook/assets/Frame 7.png" alt=""><figcaption></figcaption></figure>
 
