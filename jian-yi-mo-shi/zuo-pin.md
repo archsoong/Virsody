@@ -6,7 +6,7 @@
 
 <figure><img src="../.gitbook/assets/Frame 37.png" alt=""><figcaption></figcaption></figure>
 
-在後台要建立壁貼時，可點擊空間地圖上任意的灰色「+」點，會出現「新增壁貼」及「新增作品」的功能選項，再點選「新增壁貼」即可。
+在後臺要建立壁貼時，可點擊空間地圖上任意的灰色「+」點，會出現「新增壁貼」及「新增作品」的功能選項，再點選「新增壁貼」即可。
 
 <figure><img src="../.gitbook/assets/Frame 36.png" alt=""><figcaption></figcaption></figure>
 
