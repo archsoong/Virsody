@@ -4,7 +4,7 @@
 
 <figure><img src="../../.gitbook/assets/Frame 46.png" alt=""><figcaption></figcaption></figure>
 
-進入預覽模式後，再複製預覽空間的網址 <mark style="color:red;">( 注意，不是按「分享」連結 ! )</mark> ，並貼給您想允許參觀空間的人，這樣就只有知道此預覽網址的人才能參觀該空間了。
+進入預覽模式後，再複製預覽空間的網址 <mark style="color:red;">( 注意，不是按「分享」連結 ! )</mark> ，並貼給你想允許參觀空間的人，這樣就只有知道此預覽網址的人才能參觀該空間了。
 
 <figure><img src="../../.gitbook/assets/Frame 50.png" alt=""><figcaption></figcaption></figure>
 
