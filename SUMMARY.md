@@ -44,7 +44,7 @@
     * [💡 如何嵌入 360 環景圖](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/ru-he-qian-ru-360-huan-jing-tu/README.md)
       * [1 嵌入 kuula](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/ru-he-qian-ru-360-huan-jing-tu/qian-ru-kuula.md)
       * [2 嵌入 Momento360](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/ru-he-qian-ru-360-huan-jing-tu/qian-ru-momento360.md)
-    * [⚠️ 為什麼上傳成功的網頁在前台不能看，顯示拒絕連線？](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/wei-shi-mo-shang-chuan-cheng-gong-de-wang-ye-zai-qian-tai-bu-neng-kan-xian-shi-ju-jue-lian-xian.md)
+    * [⚠️ 為什麼上傳成功的網頁在前臺不能看，顯示拒絕連線？](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-wang-ye/wei-shi-mo-shang-chuan-cheng-gong-de-wang-ye-zai-qian-tai-bu-neng-kan-xian-shi-ju-jue-lian-xian.md)
   * [上傳 3D 模型](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/README.md)
     * [⚠️ 我的 3D 模型太大或是格式不符導致上傳失敗該怎麼辦？](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wo-de-3d-mo-xing-tai-da-huo-shi-ge-shi-bu-fu-dao-zhi-shang-chuan-shi-bai-gai-zen-mo-ban.md)
     * [⚠️ 為什麼上傳 gltf 模型檔時顯示上傳失敗？](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wei-shi-mo-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)

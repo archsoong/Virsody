@@ -1,12 +1,12 @@
 # 2 嵌入 Momento360
 
-首先請先進入[ Momento360官網](https://momento360.com) 進行註冊 / 登入，登入後點擊「MY MEDIA」進入個人後台
+首先請先進入[ Momento360官網](https://momento360.com) 進行註冊 / 登入，登入後點擊「MY MEDIA」進入個人後臺
 
 <figure><img src="../../../../.gitbook/assets/Frame 73.png" alt=""><figcaption></figcaption></figure>
 
 
 
-進入後台，再點擊「UPLOAD」上傳想展示的 360 環景圖
+進入後臺，再點擊「UPLOAD」上傳想展示的 360 環景圖
 
 <figure><img src="../../../../.gitbook/assets/Frame 74.png" alt=""><figcaption></figcaption></figure>
 
