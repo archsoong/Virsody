@@ -18,7 +18,7 @@ description: 如何在 OpenSea 上用 IPFS 上傳作品
 
 作品的 JSON 資料頁打開後，找到 <mark style="color:red;">”image”</mark> 開頭那行，接著可能會遇到兩種狀況：
 
-(1) 若後方為完整的<mark style="color:blue;">「網址」</mark>形式，直接複製貼至 Virsody 後台的 IPFS 連結輸入框內即可。
+(1) 若後方為完整的<mark style="color:blue;">「網址」</mark>形式，直接複製貼至 Virsody 後臺的 IPFS 連結輸入框內即可。
 
 ![](<../../../.gitbook/assets/截圖 2022-06-13 上午1.33.31.png>)
 
