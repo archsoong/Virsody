@@ -2,7 +2,7 @@
 
 場景 (SceneView) 的右上角，有三個功能按鈕：<mark style="color:blue;">**視野回歸原點**</mark>、<mark style="color:blue;">**存檔**</mark>、<mark style="color:blue;">**預覽**</mark>。
 
-<figure><img src="../../.gitbook/assets/Frame 116 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 116 (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
