@@ -1,6 +1,13 @@
 # 💡 上傳自製 3D 模型
 
-若想上傳自製的 3D 模型，可在素材庫 (Asset Library) 中點擊上傳 (Upload)，再點擊旁邊 ＋ 號的方框。
+若想上傳自製的 3D 模型，建議規格如下：
+
+<mark style="color:blue;">**1.模型材質圖解析度**</mark> -  2K ( 2048px\*2048px )。\
+<mark style="color:blue;">**2.UV**</mark> - 每個模型盡量不超過一個 UV。\
+<mark style="color:blue;">**3.物件中心點設定**</mark> - 與地面連接的模型中心點位要設在地面上，反之則設定在 3D 物件中心。\
+\
+\
+在素材庫 (Asset Library) 中點擊上傳 (Upload)，再點擊旁邊 ＋ 號的方框。
 
 <figure><img src="../../../.gitbook/assets/Frame 108 (1).png" alt=""><figcaption></figcaption></figure>
 
