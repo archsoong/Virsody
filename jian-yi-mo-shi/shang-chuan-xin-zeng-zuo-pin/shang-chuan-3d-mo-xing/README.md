@@ -4,7 +4,7 @@
 
 ![](https://lh5.googleusercontent.com/-vzPm-v9TjbY5dD84\_V435e6N6WByLrNSdnJpFydj7h-iTYME2CGheq2LN\_WDIeDgr97rYZiDGWNmKgmZjnYFfSezsXNCjAf7wjbztztfNSqWsiOfm8q5nvDarv9ktz38A)
 
-3D 模型提供兩種展示設定方式，第一種是讓 3D 模型可以在展間看到模型的「用展示台陳列模型」。
+3D 模型提供兩種展示設定方式，第一種是讓 3D 模型可以在展間看到模型的「用展示臺陳列模型」。
 
 ![](<../../../.gitbook/assets/截圖 2022-04-07 下午10.22.34.png>)
 
@@ -12,9 +12,9 @@
 
 ![](https://lh3.googleusercontent.com/djlzcfcPxOBZhO-4UpEz2ZI70hGpBCQEPCxhJAlVWlozUxKvqPNdeRYuVulhTeKwSZ3rAiXPJC8zguMUjG5X9YtCVr5GjsAHvFKsyNYt0GviRUGJPbMf3CkjoufQnf8-UQ)
 
-完成後，如果是使用第一種展示設定，則會在展間瀏覽時看到 3D 模型在展台上。
+完成後，如果是使用第一種展示設定，則會在展間瀏覽時看到 3D 模型在展臺上。
 
-<mark style="color:blue;">**備註：展台的 3D 模型的錨點會設定在展台上方一定距離。**</mark>
+<mark style="color:blue;">**備註：展臺的 3D 模型的錨點會設定在展臺上方一定距離。**</mark>
 
 ![](<../../../.gitbook/assets/截圖 2022-04-08 下午1.26.02.png>)
 
