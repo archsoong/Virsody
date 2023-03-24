@@ -2,7 +2,7 @@
 
 先打開想嵌入的 Google slides 簡報，並依序點擊「檔案」>「共用」>「發布到網路」
 
-<mark style="color:red;">**注意：一定要依照上述路徑，直接點擊右上的「共用」黃色按鈕是無法的。**</mark>
+<mark style="color:red;">**注意：一定要依照上述路徑，直接點擊右上的「共用」黃色按鈕是無法成功的。**</mark>
 
 <figure><img src="../../../../.gitbook/assets/截圖 2022-12-29 下午3.14.27.png" alt=""><figcaption></figcaption></figure>
 
