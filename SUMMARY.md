@@ -70,7 +70,6 @@
   * [物件水平 / 垂直翻轉](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/wu-jian-shui-ping-chui-zhi-fan-zhuan.md)
   * [物件上鎖、隱藏、刪除、瞄準](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/wu-jian-shang-suo-yin-cang-shan-chu-miao-zhun.md)
 * [場景 (SceneView)](zi-you-bian-ji-mo-shi/chang-jing-sceneview/README.md)
-  * [物件三軸 (Gizmo)](zi-you-bian-ji-mo-shi/chang-jing-sceneview/wu-jian-san-zhou-gizmo.md)
   * [場景儲存、預覽、視野回歸原點](zi-you-bian-ji-mo-shi/chang-jing-sceneview/chang-jing-chu-cun-yu-lan-shi-ye-hui-gui-yuan-dian.md)
 * [物件屬性 (Inspector)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/README.md)
   * [物件重新命名、瞄準、上鎖、刪除](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/wu-jian-zhong-xin-ming-ming-miao-zhun-shang-suo-shan-chu.md)
