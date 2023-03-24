@@ -4,7 +4,7 @@
 
 <figure><img src="../.gitbook/assets/優雅A_01.png" alt=""><figcaption></figcaption></figure>
 
-在後台編輯的空間地圖上，主視覺點位為在牆面上的粉紅色「+」點，點擊即可上傳主視覺海報。
+在後臺編輯的空間地圖上，主視覺點位為牆面上的粉紅色「+」點，點擊即可上傳主視覺海報。
 
 <mark style="color:blue;">**備註：主視覺海報的尺寸會依房型有兩種比例：**</mark><mark style="color:blue;"><mark style="color:blue;">**2:1、4:3，即 2000\*1000px 及 2000\*1500px。**<mark style="color:blue;"></mark>
 

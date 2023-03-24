@@ -1,6 +1,6 @@
 # 上傳空間封面
 
-「空間封面」為你的空間在其他頁面、分享連結時所提供的預覽圖。\
+「空間封面」為您的空間在其他頁面、分享連結時所提供的預覽圖。\
 例如在 Virsody 的展覽大廳中，也會以每個空間的封面作為入口預覽圖，如下圖所示：
 
 <figure><img src="../.gitbook/assets/virsody.io_explore (1).png" alt=""><figcaption></figcaption></figure>
