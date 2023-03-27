@@ -2,7 +2,7 @@
 
 當點擊 3D 物件時，右側便會出現物件屬性 (Inspector) 面板。
 
-除了可以為物件重新命名、瞄準、上鎖、隱藏跟刪除之外，還可進一步為 3D 物件進行屬性(Property) 跟資訊版 (Action) 的設定。
+除了可以為物件重新命名、瞄準、上鎖、隱藏跟刪除之外，還可進一步為 3D 物件進行<mark style="color:blue;">**屬性(Property)**</mark> 跟 <mark style="color:blue;">**資訊版 (Action)**</mark> 的設定。
 
 <figure><img src="../../.gitbook/assets/Frame 119.png" alt=""><figcaption></figcaption></figure>
 

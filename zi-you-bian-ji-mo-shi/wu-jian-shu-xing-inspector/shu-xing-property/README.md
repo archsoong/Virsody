@@ -1,6 +1,6 @@
 # 屬性 (Property)
 
-點擊 3D [實體物件 (Mesh)](../../wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/)，在右側的屬性設定 (Property) 中，即會出現功能區域：
+點擊 3D [實體物件 (Mesh)](../../wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/)，在右側面板的 <mark style="color:blue;">**屬性 (Property)**</mark> 中，即會出現以下功能區域：
 
 1.移動、旋轉、縮放  (Transform)\
 2.碰撞區、透明度  (Other)\
