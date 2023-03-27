@@ -63,7 +63,7 @@
   * [物件階層列表](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/README.md)
     * [💡 調整參觀者視角 (Player camera)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/diao-zheng-can-guan-zhe-shi-jiao-player-camera.md)
   * [場景效能檢視 (Performance)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/chang-jing-xiao-neng-jian-shi-performance.md)
-* [物件工具欄 (ToolBar)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/README.md)
+* [物件工具欄 (Toolbar)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/README.md)
   * [素材庫 (Asset Library)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/su-cai-ku-asset-library/README.md)
     * [💡 上傳自製 3D 模型](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/su-cai-ku-asset-library/shang-chuan-zi-zhi-3d-mo-xing.md)
   * [物件移動、旋轉、縮放](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lan-toolbar/wu-jian-yi-dong-xuan-zhuan-suo-fang.md)
