@@ -13,12 +13,12 @@
 
 
 
-<mark style="color:yellow;">**狀態 2 -**</mark> <mark style="color:yellow;">**Medium**</mark>：當增加的 3D 物件有點多時，效能就會開始往下掉。
+<mark style="color:yellow;">**狀態 2 -**</mark> <mark style="color:yellow;">**Medium**</mark>：當增加的 3D 物件有點多時，效能就會開始往下降。
 
 <figure><img src="../../.gitbook/assets/Frame 100.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<mark style="color:red;">**狀態 3 -**</mark> <mark style="color:red;">**Bad**</mark>：當場景的 3D 物件數量已經過量時，效能便會直接掉到紅色的 Bad 狀態，建議此時需刪除多餘的物件，避免場景發生當機或卡頓的情況。
+<mark style="color:red;">**狀態 3 -**</mark> <mark style="color:red;">**Bad**</mark>：當場景的 3D 物件數量已經過量時，效能便會直接降至紅色的 Bad 狀態，建議此時需刪除多餘的物件，或替換成低面數物件，避免場景發生當機或卡頓的情況。
 
 <figure><img src="../../.gitbook/assets/Frame 101.png" alt=""><figcaption></figcaption></figure>

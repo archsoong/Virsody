@@ -1,13 +1,13 @@
-# 物件工具欄 (ToolBar)
+# 物件工具列 (Toolbar)
 
-物件工具欄 (ToolBar) 預設為收合的狀態，當點擊到 3D 物件時，才會展開。
+物件工具列 (Toolbar) 預設為收合的狀態，當點擊選取到 3D 物件時，才會展開。
 
 <figure><img src="../../.gitbook/assets/工具欄.gif" alt=""><figcaption></figcaption></figure>
 
-工具欄的主要功能為以下：
+工具列的主要功能為以下：
 
 <mark style="color:blue;">**1.素材庫 (Asset Library)**</mark>\
-提供基本形狀、傢俱、場景模板等的 3D 物件素材。
+提供基本形狀、傢俱、場景模板等的 3D 物件素材，也可以自行上傳模型。
 
 <mark style="color:blue;">**2.移動、旋轉、縮放**</mark>\ <mark style="color:blue;">****</mark>可調整 3D 物件的位置、角度_、_尺寸大小。
 
