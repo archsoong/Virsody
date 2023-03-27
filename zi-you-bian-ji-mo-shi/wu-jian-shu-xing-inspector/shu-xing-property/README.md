@@ -4,13 +4,12 @@
 
 1.移動、旋轉、縮放  (Transform)\
 2.碰撞區、透明度  (Other)\
-3.材質  (Material)\
-
+3.材質  (Material)
 
 <figure><img src="../../../.gitbook/assets/Frame 121 (2).png" alt=""><figcaption></figcaption></figure>
 
 
 
-而當點擊 [空物件 (Node)](../../wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/) 時，則會另外出現 <mark style="color:blue;">**元件 (Components)**</mark> 的區域，其中會列出空物件底下包含的每個 3D 實體物件。
+而當點擊 [空物件 (Node)](../../wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/) 時，則會另外出現 <mark style="color:blue;">**元件 (Components)**</mark> 的區域，其中會列出空物件底下包含的每個 3D 實體物件 (Mesh)。
 
 <figure><img src="../../../.gitbook/assets/Frame 120 (3).png" alt=""><figcaption></figcaption></figure>

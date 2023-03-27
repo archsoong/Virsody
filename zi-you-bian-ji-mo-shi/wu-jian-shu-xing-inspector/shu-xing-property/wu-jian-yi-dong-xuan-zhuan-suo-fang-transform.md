@@ -8,16 +8,16 @@
 
 <mark style="color:blue;">**1.物件移動 (position)**</mark>
 
-(補圖)
+<figure><img src="../../../.gitbook/assets/position.gif" alt=""><figcaption></figcaption></figure>
 
 
 
-<mark style="color:blue;">**2.物件旋轉 (Rotation)**</mark>：旋轉的欄位需填入較大的數值範圍，才較更明顯地顯示 3D 物件的角度差異。
+<mark style="color:blue;">**2.物件旋轉 (Rotation)**</mark>：旋轉的欄位需填入較大的數值，才能更明顯地顯示 3D 物件的角度差異。
 
-(補圖)
+<figure><img src="../../../.gitbook/assets/rotation.gif" alt=""><figcaption></figcaption></figure>
 
 
 
 <mark style="color:blue;">**3.物件縮放 (Scale)**</mark>
 
-(補圖)
+<figure><img src="../../../.gitbook/assets/scale.gif" alt=""><figcaption></figcaption></figure>
