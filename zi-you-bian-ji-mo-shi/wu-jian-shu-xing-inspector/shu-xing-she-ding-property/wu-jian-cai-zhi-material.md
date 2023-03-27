@@ -1,4 +1,4 @@
-# 💡 物件材質調整 (Material)
+# 💡 物件材質 (Material)
 
 在材質 (Material) 區域可為 3D 物件更換的材質有三種類型：<mark style="color:blue;">**預設值**</mark>、<mark style="color:blue;">**影片**</mark>、<mark style="color:blue;">**材質球**</mark>。
 
@@ -8,7 +8,7 @@
 
 <mark style="color:blue;">**1.預設值 (Default)**</mark>：可自由上傳圖片，並調整預設值的<mark style="color:blue;">**參數**</mark>。
 
-參數共有五種：材質色彩 (Albedo)、粗糙度 (Roughness)、金屬感 (Metallic)、自體發光 (Emissive)
+參數共有五種：材質色彩 (Albedo)、粗糙度 (Roughness)、金屬感 (Metallic)、透明度（Alpha）、發光度 (Emissive)
 
 <figure><img src="../../../.gitbook/assets/Frame 127.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@
 
 <figure><img src="../../../.gitbook/assets/Frame 130.png" alt=""><figcaption></figcaption></figure>
 
-\-> 或點擊「方框」，上傳<mark style="color:blue;">**圖片**</mark>作為材質 (建議規格：1k以下；png. jpg.)，上傳後則會有刪除按鈕可清除上傳的圖片。
+\-> 或點擊「方框」，上傳<mark style="color:blue;">**圖片**</mark>作為材質 (建議規格：2k以下；僅接受 png. jpg.)，上傳後則會有刪除按鈕可清除上傳的圖片。
 
 ⚠️ 注意：若上傳透明背景的 png 檔案，透明部分會呈現黑色。
 
