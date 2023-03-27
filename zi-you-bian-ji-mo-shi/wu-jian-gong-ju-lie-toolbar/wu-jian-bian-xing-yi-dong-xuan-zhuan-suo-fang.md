@@ -1,4 +1,8 @@
-# 物件移動、旋轉、縮放
+---
+description: 變形：
+---
+
+# 物件變形：移動、旋轉、縮放
 
 在物件工具列 (Toolbar) 可點擊進行物件 <mark style="color:blue;">**移動**</mark>**、**<mark style="color:blue;">**旋轉**</mark>**、**<mark style="color:blue;">**縮放**</mark> 的功能 (或者也可以從右側的 Transform 進行相應的數值調整)。
 

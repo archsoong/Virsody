@@ -66,7 +66,7 @@
 * [物件工具列 (Toolbar)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/README.md)
   * [素材庫 (Asset Library)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/su-cai-ku-asset-library/README.md)
     * [💡 上傳自製 3D 模型](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/su-cai-ku-asset-library/shang-chuan-zi-zhi-3d-mo-xing.md)
-  * [物件移動、旋轉、縮放](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/wu-jian-yi-dong-xuan-zhuan-suo-fang.md)
+  * [物件變形：移動、旋轉、縮放](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/wu-jian-bian-xing-yi-dong-xuan-zhuan-suo-fang.md)
   * [物件水平 / 垂直翻轉](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/wu-jian-shui-ping-chui-zhi-fan-zhuan.md)
   * [物件上鎖、隱藏、刪除、瞄準](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/wu-jian-shang-suo-yin-cang-shan-chu-miao-zhun.md)
 * [場景 (SceneView)](zi-you-bian-ji-mo-shi/chang-jing-sceneview/README.md)
