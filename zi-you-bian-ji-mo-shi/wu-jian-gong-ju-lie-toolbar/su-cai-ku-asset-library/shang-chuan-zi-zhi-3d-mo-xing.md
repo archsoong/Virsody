@@ -3,10 +3,10 @@
 若想上傳自製的 3D 模型，建議規格如下：
 
 <mark style="color:blue;">**1.模型材質圖解析度**</mark> -  2K ( 2048px\*2048px ) 以下。\
-<mark style="color:blue;">**2.UV**</mark> - 每個模型盡量不超過一個 UV。\
+<mark style="color:blue;">**2.UV Map**</mark>- 每個模型只會讀取一個 UV Map。\
 <mark style="color:blue;">**3.物件中心點設定**</mark> - 與地面連接的模型中心點位要設在地面上，反之則設定在 3D 物件中心。\
-<mark style="color:blue;">**3.規格限制**</mark> - 依使用方案之容量限制、僅接受 .glb 檔。\
-注意，請勿使用轉檔過的 .glb（e.g. Photoshop 3D 檔轉、.fbx 檔轉）可能會無法上傳，或有讀取問題。\
+<mark style="color:blue;">**3.規格限制**</mark> - 僅接受 .glb 檔。\
+注意，請勿使用轉檔過的 .glb（e.g. Photoshop 3D 轉檔、.fbx 轉檔）可能會無法上傳，或有讀取問題。\
 \
 \
 在素材庫 (Asset Library) 中點擊上傳 (Upload)，再點擊旁邊 ＋ 號的方框。
