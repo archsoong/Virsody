@@ -1,6 +1,6 @@
-# 💡 物件移動、旋轉、縮放 (Transform)
+# 💡 物件變形：移動、旋轉、縮放 (Transform)
 
-在物件移動、旋轉、縮放的區域 (Transform) 可進行精準的數值調整，可填入<mark style="color:blue;">**小數點**</mark>、<mark style="color:blue;">**正負數**</mark>等。
+在物件變形的區域 (Transform) 可進行精準的數值調整，可填入<mark style="color:blue;">**小數點**</mark>、<mark style="color:blue;">**正負數**</mark>等。
 
 <figure><img src="../../../.gitbook/assets/Frame 122.png" alt=""><figcaption></figcaption></figure>
 

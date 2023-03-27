@@ -73,8 +73,8 @@
   * [場景儲存、預覽、視野回歸原點](zi-you-bian-ji-mo-shi/chang-jing-sceneview/chang-jing-chu-cun-yu-lan-shi-ye-hui-gui-yuan-dian.md)
 * [物件屬性 (Inspector)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/README.md)
   * [屬性設定 (Property)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/README.md)
-    * [💡 物件移動、旋轉、縮放 (Transform)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/wu-jian-yi-dong-xuan-zhuan-suo-fang-transform.md)
-    * [💡 物件碰撞區 / 透明度設定 (Other)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/wu-jian-peng-zhuang-qu-tou-ming-du-she-ding-other.md)
+    * [💡 物件變形：移動、旋轉、縮放 (Transform)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/wu-jian-bian-xing-yi-dong-xuan-zhuan-suo-fang-transform.md)
+    * [💡 其他：物件碰撞區 / 透明度設定 (Other)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/qi-ta-wu-jian-peng-zhuang-qu-tou-ming-du-she-ding-other.md)
     * [💡 物件材質調整 (Material)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/shu-xing-she-ding-property/wu-jian-cai-zhi-diao-zheng-material.md)
   * [互動設定 (Action)](zi-you-bian-ji-mo-shi/wu-jian-shu-xing-inspector/hu-dong-she-ding-action.md)
 

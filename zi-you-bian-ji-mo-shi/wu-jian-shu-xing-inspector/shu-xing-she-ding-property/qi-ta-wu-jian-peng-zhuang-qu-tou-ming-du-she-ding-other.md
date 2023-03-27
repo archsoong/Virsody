@@ -1,6 +1,6 @@
-# 💡 物件碰撞區 / 透明度設定 (Other)
+# 💡 其他：物件碰撞區 / 透明度設定 (Other)
 
-在物件碰撞區 / 透明度區域 (Other) 可為 3D 物件進行以下設定：
+在其他：物件碰撞區 / 透明度區域 (Other) 可為 3D 物件進行以下設定：
 
 <figure><img src="../../../.gitbook/assets/Frame 123.png" alt=""><figcaption></figcaption></figure>
 
@@ -11,6 +11,8 @@
 <figure><img src="../../../.gitbook/assets/Frame 124.png" alt=""><figcaption></figcaption></figure>
 
 這樣一來，當參觀者與設有碰撞區 (Collision) 的 3D 物件交會時，就會發生物理碰撞，從而防止他們穿透物件。透過這種方式，你將可以更細緻地規劃參觀者的行動範圍。
+
+
 
 
 
