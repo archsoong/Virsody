@@ -8,25 +8,25 @@
 
 <mark style="color:blue;">**1.預設值 (Default)**</mark>：可自由上傳圖片，並調整預設值的<mark style="color:blue;">**參數**</mark>。
 
+預設值的參數共有五種：材質色彩 (Albedo)、粗糙度 (Roughness)、金屬感 (Metallic)、自體發光 (Emissive)
+
 <figure><img src="../../../.gitbook/assets/Frame 127.png" alt=""><figcaption></figcaption></figure>
 
-預設值的<mark style="color:blue;">**參數**</mark>共有五種：材質色彩 (Albedo)、粗糙度 (Roughness)、金屬感 (Metallic)、自體發光 (Emissive)
 
 
+<mark style="background-color:blue;">**(1) 材質色彩 (Albedo)**</mark> ：可換顏色，或上傳圖片作為物件材質。
 
-<mark style="background-color:blue;">**(1) 材質色彩 (Albedo)**</mark> ：可換 3D 物件的顏色，或上傳客製圖片作為物件材質。
-
-📍可點選「圓圈」的部分，透過<mark style="color:blue;">**調色盤**</mark>調整 3D 物件的顏色。
+\-> 可點選「圓圈」的部分，透過<mark style="color:blue;">**調色盤**</mark>調整 3D 物件的顏色。
 
 <figure><img src="../../../.gitbook/assets/Frame 130.png" alt=""><figcaption></figcaption></figure>
 
-📍或點擊「方框」，上傳<mark style="color:blue;">**圖片**</mark>作為材質 (建議規格：1k以下；png. jpg.)，上傳後則會有刪除按鈕可清除上傳的圖片。
+\-> 或點擊「方框」，上傳<mark style="color:blue;">**圖片**</mark>作為材質 (建議規格：1k以下；png. jpg.)，上傳後則會有刪除按鈕可清除上傳的圖片。
 
 <figure><img src="../../../.gitbook/assets/Frame 129.png" alt=""><figcaption></figcaption></figure>
 
 <mark style="background-color:blue;">****</mark>
 
-<mark style="background-color:blue;">**(2) 粗糙度 (Roughness)**</mark> ：數值 1 (霧面) ～ 數值 0 (亮面)
+<mark style="background-color:blue;">**(2) 粗糙度 (Roughness)**</mark> ：數值1 (霧面) -> 數值0 (亮面)
 
 <figure><img src="../../../.gitbook/assets/roughness.gif" alt=""><figcaption></figcaption></figure>
 
@@ -38,12 +38,15 @@
 
 <mark style="background-color:blue;">****</mark>
 
-<mark style="background-color:blue;">**(4) 透明度 (Alpha)**</mark>：數值 1 (完全不透明) ～ 數值 0 (完全透明)\
+<mark style="background-color:blue;">**(4) 透明度 (Alpha)**</mark>：數值1 (完全不透明) ～ 數值0 (完全透明)。
+
 ⚠️ 注意：若材質完全透明會呈現黑色。
 
 <figure><img src="../../../.gitbook/assets/Alpha (1).gif" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">**(5) 自體發光 (Emissive)**</mark>：可選擇 3D 物件材質的「發光」顏色，數值 1 (亮) ～ 數值 0 (不亮)。另外也可上傳圖片 (建議規格：1k以下；png. jpg.)。
+<mark style="background-color:blue;">****</mark>
+
+<mark style="background-color:blue;">**(5) 自體發光 (Emissive)**</mark>：可選擇 3D 物件材質的「發光」顏色，另外也可上傳圖片 (建議規格：1k以下；png. jpg.)。
 
 <figure><img src="../../../.gitbook/assets/emissive.gif" alt=""><figcaption></figcaption></figure>
 
