@@ -59,7 +59,7 @@
 * [自由編輯模式操作介紹](zi-you-bian-ji-mo-shi/zi-you-bian-ji-mo-shi-cao-zuo-jie-shao.md)
 * [視角控制](zi-you-bian-ji-mo-shi/shi-jiao-kong-zhi.md)
 * [物件階層 (Hierarchy)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/README.md)
-  * [環境設定](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/huan-jing-she-ding.md)
+  * [環境設定（Environment）](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/huan-jing-she-ding-environment.md)
   * [物件階層列表](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/README.md)
     * [💡 調整觀者初始視角 (Player camera)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/diao-zheng-guan-zhe-chu-shi-shi-jiao-player-camera.md)
   * [場景效能檢視 (Performance)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/chang-jing-xiao-neng-jian-shi-performance.md)
