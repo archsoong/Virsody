@@ -10,7 +10,7 @@ Step3. 點擊 Edit 按鈕
 
 
 
-出現資訊版編輯彈窗後，可上傳五種媒體 (Media) ：<mark style="color:blue;">**圖片**</mark>**、**<mark style="color:blue;">**音訊**</mark>、<mark style="color:blue;">**3D 模型**</mark>**、**<mark style="color:blue;">**Youtube 連結影片**</mark>**、**<mark style="color:blue;">**網頁連結**</mark>
+出現資訊版編輯彈窗後，可上傳五種媒體 (Media) ：<mark style="color:blue;">**圖片**</mark>**、**<mark style="color:blue;">**音訊**</mark>、<mark style="color:blue;">**3D 模型**</mark>**、**<mark style="color:blue;">**Youtube 連結影片**</mark>**、**<mark style="color:blue;">**網頁連結**</mark>。
 
 <figure><img src="../../.gitbook/assets/Frame 132.png" alt=""><figcaption></figcaption></figure>
 

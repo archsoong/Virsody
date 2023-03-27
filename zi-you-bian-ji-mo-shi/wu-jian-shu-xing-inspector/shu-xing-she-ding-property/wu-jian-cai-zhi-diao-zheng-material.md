@@ -1,6 +1,6 @@
 # 💡 物件材質調整 (Material)
 
-在材質 (Material) 區域可為 3D 物件更換的材質有三種類型：<mark style="color:blue;">**預設值**</mark>、<mark style="color:blue;">**影片**</mark>、<mark style="color:blue;">**材質球**</mark>
+在材質 (Material) 區域可為 3D 物件更換的材質有三種類型：<mark style="color:blue;">**預設值**</mark>、<mark style="color:blue;">**影片**</mark>、<mark style="color:blue;">**材質球**</mark>。
 
 <figure><img src="../../../.gitbook/assets/Frame 126.png" alt=""><figcaption></figcaption></figure>
 
@@ -28,7 +28,7 @@
 
 <mark style="background-color:blue;">****</mark>
 
-<mark style="background-color:blue;">**(2) 粗糙度 (Roughness)**</mark> ：數值大 (霧面) -> 數值小 (亮面)
+<mark style="background-color:blue;">**(2) 粗糙度 (Roughness)**</mark> ：數值大 (霧面) -> 數值小 (亮面)。
 
 <figure><img src="../../../.gitbook/assets/粗糙度.gif" alt=""><figcaption></figcaption></figure>
 
@@ -50,7 +50,7 @@
 
 <mark style="background-color:blue;">****</mark>
 
-<mark style="background-color:blue;">**(5) 自體發光 (Emissive)**</mark>：為 3D 物件「發光」的顏色，數值大 (光強) -> 數值小 (光弱)
+<mark style="background-color:blue;">**(5) 自體發光 (Emissive)**</mark>：為 3D 物件「發光」的顏色，數值大 (光強) -> 數值小 (光弱)。
 
 自體發光 (Metallic) 的參數也可另外上傳圖片 (建議規格：1k以下；png. jpg.)。
 
@@ -66,6 +66,6 @@
 
 <mark style="color:blue;">**3.材質球**</mark>：以自由編輯器中現成的材質球進行更換。
 
-⚠️ 注意：材質球的參數是固定的，無法調整
+⚠️ 注意：材質球的參數是固定的，無法調整。
 
 <figure><img src="../../../.gitbook/assets/PBR.gif" alt=""><figcaption></figcaption></figure>
