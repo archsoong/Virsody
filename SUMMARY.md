@@ -86,4 +86,5 @@
 
 ## 其他問題
 
+* [⚠️ 建議使用的環境規格](qi-ta-wen-ti/jian-yi-shi-yong-de-huan-jing-gui-ge.md)
 * [⚠️ 為什麼會無法進入登入頁面？](qi-ta-wen-ti/wei-shi-mo-hui-wu-fa-jin-ru-deng-ru-ye-mian.md)
