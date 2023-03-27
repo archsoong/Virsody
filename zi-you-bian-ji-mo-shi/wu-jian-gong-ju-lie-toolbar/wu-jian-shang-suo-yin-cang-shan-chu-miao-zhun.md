@@ -1,12 +1,12 @@
 # 物件上鎖、隱藏、刪除、瞄準
 
-在物件工具欄 (ToolBar) 可點擊進行物件 <mark style="color:blue;">**上鎖、隱藏、刪除、瞄準**</mark> 的功能。
+在物件工具欄 (Toolbar) 可點擊進行物件 <mark style="color:blue;">**上鎖、隱藏、刪除、瞄準**</mark> 的功能。
 
 <figure><img src="../../.gitbook/assets/Frame 114.png" alt=""><figcaption></figcaption></figure>
 
 
 
-<mark style="color:blue;">**1.上鎖 (Lock)**</mark>：上鎖後，物件在場景上無法被移動。
+<mark style="color:blue;">**1.上鎖 (Lock)**</mark>：上鎖後，物件在場景上無法被移動、旋轉、縮放。
 
 <figure><img src="../../.gitbook/assets/上鎖.gif" alt=""><figcaption></figcaption></figure>
 
