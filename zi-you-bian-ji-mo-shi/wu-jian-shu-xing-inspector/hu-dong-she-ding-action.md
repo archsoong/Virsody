@@ -26,6 +26,6 @@ Step3. 點擊 Edit 按鈕
 
 <figure><img src="../../.gitbook/assets/Frame 133.png" alt=""><figcaption></figcaption></figure>
 
-設定完成後，記得按下儲存，該 3D 物件被觀賞者點擊時，便可呈現詳細的內容資訊版。
+設定完成後，記得按下儲存。在預覽或前台中，該 3D 物件被觀賞者點擊時，便可呈現詳細的內容資訊版。
 
 <figure><img src="../../.gitbook/assets/資訊版設定 (1).gif" alt=""><figcaption></figcaption></figure>
