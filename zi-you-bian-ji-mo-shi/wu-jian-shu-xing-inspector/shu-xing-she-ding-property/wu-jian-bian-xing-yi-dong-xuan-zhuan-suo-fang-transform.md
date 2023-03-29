@@ -6,7 +6,7 @@
 
 <mark style="color:blue;">****</mark>
 
-<mark style="color:blue;">**1.物件移動 (position)**</mark>
+<mark style="color:blue;">**1.物件座標 (position)**</mark>
 
 <figure><img src="../../../.gitbook/assets/position.gif" alt=""><figcaption></figcaption></figure>
 
