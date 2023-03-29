@@ -16,15 +16,17 @@
 
 <figure><img src="../../../.gitbook/assets/node上層影響下層.gif" alt=""><figcaption></figcaption></figure>
 
-
-
 <mark style="color:blue;">**2.拖曳物件形成父子層級**</mark>
 
-無論是空物件 (Node) 還是實體物件 (Mesh) 都可以在階層列表中自由拖移，調整階層或順序。\
-注意1：只有空物件 (Node)可以形成父子層級，實體物件 (Mesh)之間無法形成父子層級。\
-注意2：需點擊收合箭頭，使父子層級展開，才能將物件拖曳至該物件的子層級。
+需點擊收合箭頭，使父子層級展開，才能將物件拖曳至該物件的子層級。\
+只有空物件 (Node)可以形成父子層級，實體物件 (Mesh)之間無法形成父子層級。\
+注意：無論是空物件 (Node) 還是實體物件 (Mesh) 都可以在階層列表中自由拖移，調整階層或順序。
 
 <figure><img src="../../../.gitbook/assets/自由拖移.gif" alt=""><figcaption></figcaption></figure>
+
+
+
+
 
 物件控制：
 
