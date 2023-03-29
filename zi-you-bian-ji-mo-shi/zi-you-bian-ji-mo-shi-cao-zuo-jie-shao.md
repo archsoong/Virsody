@@ -1,7 +1,7 @@
 # 自由編輯模式操作介紹
 
 {% hint style="info" %}
-建議使用瀏覽器 Chrome，已獲得最佳體驗。
+建議使用瀏覽器 Chrome，以獲得最佳體驗。
 {% endhint %}
 
 想開始操作自由編輯模式，需先進入自由編輯空間頁 (Space Collection) ，有兩種方式可進入：
