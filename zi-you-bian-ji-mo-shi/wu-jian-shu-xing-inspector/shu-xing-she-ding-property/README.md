@@ -14,6 +14,6 @@ description: 設定
 
 
 
-而當點擊[父層級](../../wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/)的空物件（Node）時，則會另外出現 <mark style="color:blue;">**元件 (Components)**</mark> 的區域，其中會列出空物件底下包含的每個 3D 實體物件 (Mesh)。
+而當點擊[父層級](../../wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/)的空物件（Node）時，則會另外出現 <mark style="color:blue;">**元件 (Components)**</mark> 的區域，其中會列出空物件底下所有 3D 實體物件 (Mesh)。
 
 <figure><img src="../../../.gitbook/assets/Frame 120 (3).png" alt=""><figcaption></figcaption></figure>
