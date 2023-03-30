@@ -61,7 +61,7 @@
 * [物件階層 (Hierarchy)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/README.md)
   * [環境設定（Environment）](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/huan-jing-she-ding-environment.md)
   * [物件階層列表](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/README.md)
-    * [💡 調整觀者初始視角 (Player camera)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/diao-zheng-guan-zhe-chu-shi-shi-jiao-player-camera.md)
+    * [💡 觀者攝影機 (Player camera)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/guan-zhe-she-ying-ji-player-camera.md)
   * [場景效能檢視 (Performance)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/chang-jing-xiao-neng-jian-shi-performance.md)
 * [物件工具列 (Toolbar)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/README.md)
   * [素材庫 (Asset Library)](zi-you-bian-ji-mo-shi/wu-jian-gong-ju-lie-toolbar/su-cai-ku-asset-library/README.md)
