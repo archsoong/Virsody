@@ -4,7 +4,7 @@
 
 <figure><img src="../../../.gitbook/assets/Frame 122.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**1.物件座標 (position)**</mark>
 

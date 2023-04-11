@@ -24,5 +24,5 @@
 
 <figure><img src="../.gitbook/assets/Frame 4.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">****</mark>
+
 

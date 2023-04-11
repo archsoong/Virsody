@@ -16,7 +16,7 @@
 
 <figure><img src="../../.gitbook/assets/存檔.gif" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**3.預覽 (Preview)**</mark>：如果你想要查看你所創建的場景的效果，你可以先將檔案存檔，然後點擊「預覽」按鈕，進入預覽模式查看。
 

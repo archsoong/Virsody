@@ -8,6 +8,5 @@
 
 <figure><img src="../.gitbook/assets/Frame 47.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:red;">****</mark>
 
-<mark style="color:red;">****</mark>
+

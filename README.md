@@ -1,6 +1,6 @@
 # 關於 Virsody
 
-### **歡迎使用線上虛擬策展平台** [**Virsody**](https://virsody.io/)****
+### **歡迎使用線上虛擬策展平台** [**Virsody**](https://virsody.io/)
 
 Virsody 提供最簡易的操作方式，讓你可以快速建立專屬的線上虛擬展示空間！&#x20;
 

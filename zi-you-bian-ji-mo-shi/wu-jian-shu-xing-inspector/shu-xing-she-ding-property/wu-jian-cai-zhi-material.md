@@ -26,7 +26,7 @@
 
 <figure><img src="../../../.gitbook/assets/Frame 129.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">****</mark>
+
 
 <mark style="background-color:blue;">**(2) 粗糙度 (Roughness)**</mark> ：數值大 (霧面) -> 數值小 (亮面)。
 
@@ -40,7 +40,7 @@
 
 <figure><img src="../../../.gitbook/assets/金屬.gif" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">****</mark>
+
 
 <mark style="background-color:blue;">**(4) 透明度 (Alpha)**</mark>：數值大 (不透明) -> 數值小 (透明)。
 
@@ -48,7 +48,7 @@
 
 <figure><img src="../../../.gitbook/assets/Alpha (1).gif" alt=""><figcaption></figcaption></figure>
 
-<mark style="background-color:blue;">****</mark>
+
 
 <mark style="background-color:blue;">**(5) 自體發光 (Emissive)**</mark>：為 3D 物件「發光」的顏色，數值大 (光強) -> 數值小 (光弱)。
 
@@ -62,7 +62,7 @@
 
 <figure><img src="../../../.gitbook/assets/video.gif" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**3.材質球**</mark>：以自由編輯器中現成的材質球進行更換。
 

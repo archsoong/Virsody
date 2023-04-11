@@ -2,7 +2,8 @@
 
 Virsody 為網頁平臺，無需下載和安裝，建議使用的環境規格如下：
 
-<mark style="color:blue;">**瀏覽器**</mark>\ <mark style="color:blue;">****</mark>1.Chrome：96.0.4664.209 以上版本 \
+<mark style="color:blue;">**瀏覽器**</mark>\
+1.Chrome：96.0.4664.209 以上版本 \
 2.Edge：102.0.1245.30 以上版本 \
 3.Safari：16.3 以上版本 \
 4.Firefox：102.0 以上版本&#x20;

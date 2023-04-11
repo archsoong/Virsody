@@ -6,7 +6,7 @@
 
 <figure><img src="../../.gitbook/assets/Frame 119.png" alt=""><figcaption></figcaption></figure>
 
-<mark style="color:blue;">****</mark>
+
 
 <mark style="color:blue;">**1.屬性 (Property)**</mark>：設定物件的位置、角度、大小、透明度、碰撞區、材質。
 
