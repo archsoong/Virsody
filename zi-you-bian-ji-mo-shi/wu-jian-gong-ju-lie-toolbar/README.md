@@ -18,7 +18,7 @@
 <mark style="color:blue;">**4.複製、上鎖、隱藏、刪除、瞄準**</mark>\
 可針對 3D 物件進行複製、上鎖、隱藏、刪除、瞄準等動作。
 
-<figure><img src="../../.gitbook/assets/Frame 102.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 102 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
