@@ -10,13 +10,19 @@
 
 <figure><img src="../../../.gitbook/assets/Frame 93 (2).png" alt=""><figcaption></figcaption></figure>
 
+###
+
 ### 物件階層列表中的父子層級關係（Parent-child）：
+
+
 
 <mark style="color:blue;">**1.開啟 詳細階層列表 (Advance List)，才會看到子層**</mark>
 
 物件的詳細階層列表 (Advance List) 預設為「關閉」，僅能可見最上面的「父層級」的物件 。
 
 <figure><img src="../../../.gitbook/assets/Frame 139.png" alt=""><figcaption></figcaption></figure>
+
+
 
 把詳細階層列表 (Advance List) 打開時，才能看見該父層級底下，屬於「子層級」的其他物件。
 
@@ -43,14 +49,17 @@
 
 
 
-
-
 ### 物件控制：
 
-<mark style="color:blue;">**1.重新命名**</mark>\
+
+
+<mark style="color:blue;">**1.重新命名**</mark>
+
 在列表點擊兩下，可重新命名空物件 (Node) 或實體物件 (Mesh)，也可以在右側的物件屬性中重新命名。
 
 <figure><img src="../../../.gitbook/assets/Frame 95.png" alt=""><figcaption></figcaption></figure>
+
+
 
 <mark style="color:blue;">**2.隱藏與上鎖**</mark>
 
@@ -58,26 +67,17 @@
 
 <figure><img src="../../../.gitbook/assets/Frame 96.png" alt=""><figcaption></figcaption></figure>
 
+
+
 &#x20;<mark style="color:blue;">**3.多選、群組與解除群組**</mark>
 
 按住「control / command+ 滑鼠點擊」物件，可「多選」一個以上的物件
 
 <figure><img src="../../../.gitbook/assets/Frame 141.png" alt=""><figcaption></figcaption></figure>
 
+
+
 將物件多選起來後，可按住「control / command+ G」 進行「群組」。\
 若想要解除群組則可按「shift+command+G」。
 
 <figure><img src="../../../.gitbook/assets/Frame 142.png" alt=""><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-
-
-
-
-
-

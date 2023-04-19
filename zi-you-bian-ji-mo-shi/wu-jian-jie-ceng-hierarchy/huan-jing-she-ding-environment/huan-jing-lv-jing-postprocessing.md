@@ -1,18 +1,23 @@
 # 💡 環境濾鏡 (Post-processing)
 
-若想讓環境更有氛圍感，可使用 <mark style="color:blue;">**環境濾鏡 (Post-processing)**</mark> 的功能。
-
-點擊任一的環境濾鏡，下方則會出現該濾鏡的調整參數，可自由調整！
+若想讓環境更有氛圍感，可使用 <mark style="color:blue;">**環境濾鏡 (Post-processing)**</mark> 的功能。\
+點擊預設的環境濾鏡，下方便會出現該濾鏡的參數，可自由調整！
 
 <figure><img src="../../../.gitbook/assets/Frame 144.png" alt=""><figcaption></figcaption></figure>
+
+
 
 目前環境濾鏡共有六種風格：Default、Horror、Black & White、Negative、Vintage、Fault
 
 <figure><img src="../../../.gitbook/assets/Frame 145.png" alt=""><figcaption></figcaption></figure>
 
+
+
 濾鏡可調整的參數共有 10 種，每種參數的調整效果如下：
 
 <figure><img src="../../../.gitbook/assets/Frame 146 (1).png" alt=""><figcaption></figcaption></figure>
+
+
 
 <mark style="color:blue;">**1.對比度 (Contrast)**</mark>
 
@@ -44,6 +49,8 @@ MSAA 與 FXAA 皆可消除物件邊緣的鋸齒狀，兩者的差別在於：
 色調映射 (Tone Mapping) 可將場景調整為一致的平均亮度 (讓太亮的部分暗一些；太暗的部分則亮一些) 。
 
 <figure><img src="../../../.gitbook/assets/色彩映射 (1).gif" alt=""><figcaption></figcaption></figure>
+
+
 
 <mark style="color:blue;">**5.色彩曲線 (Color Curves)**</mark>
 
@@ -104,6 +111,8 @@ MSAA 與 FXAA 皆可消除物件邊緣的鋸齒狀，兩者的差別在於：
 2 - 權重 (Weight)
 
 <figure><img src="../../../.gitbook/assets/暈影.gif" alt=""><figcaption></figcaption></figure>
+
+
 
 <mark style="color:blue;">**10.噪點 (Grain)**</mark>
 

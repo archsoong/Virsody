@@ -18,8 +18,7 @@
 
 
 
-選擇完畢後，記得要打開「Action」才能在場景播放！
-
+選擇完畢後，記得要打開「Action」才能在場景播放！\
 若希望背景音樂能循環播放，則可打開「Loop」的開關。
 
 <figure><img src="../../../.gitbook/assets/Frame 152 (2).png" alt=""><figcaption></figcaption></figure>

@@ -2,7 +2,7 @@
 
 若你想上傳自己的音樂，可點選「Upload」的分頁，並再點擊「Upload」的按鈕。
 
-<mark style="color:red;">**注意：上傳音樂時，請切記注意相關的版權問題。**</mark>
+⚠️  注意：上傳音樂時，請切記注意相關的<mark style="color:red;">**版權問題**</mark>。
 
 <figure><img src="../../../.gitbook/assets/Frame 154.png" alt=""><figcaption></figcaption></figure>
 

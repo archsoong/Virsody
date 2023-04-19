@@ -15,8 +15,8 @@
 <mark style="color:blue;">**3.水平 / 垂直翻轉**</mark>\
 可調整 3D 物件的水平、垂直翻轉。
 
-<mark style="color:blue;">**4.上鎖、隱藏、刪除、瞄準**</mark>\
-可針對 3D 物件進行上鎖、隱藏、刪除、瞄準等動作。
+<mark style="color:blue;">**4.複製、上鎖、隱藏、刪除、瞄準**</mark>\
+可針對 3D 物件進行複製、上鎖、隱藏、刪除、瞄準等動作。
 
 <figure><img src="../../.gitbook/assets/Frame 102.png" alt=""><figcaption></figcaption></figure>
 
