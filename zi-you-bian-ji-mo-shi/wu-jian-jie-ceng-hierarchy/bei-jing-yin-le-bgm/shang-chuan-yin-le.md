@@ -1,6 +1,6 @@
 # 💡 上傳音樂
 
-若你想上傳自己的音樂，可點選「Upload」的分頁，並再點擊「Upload」的按鈕。
+若你想上傳自己的音樂，可點選「Upload」的分頁，再點擊「Upload」的按鈕。
 
 ⚠️  注意：上傳音樂時，請切記注意相關的<mark style="color:red;">**版權問題**</mark>。
 
@@ -8,7 +8,7 @@
 
 
 
-點擊上傳音樂的欄位，可上傳 <mark style="color:blue;">**< 5MB**</mark> 的 <mark style="color:blue;">**mp3、m4a**</mark> 音檔，也可為上傳的背景音樂重新命名。
+點擊上傳音樂的欄位，可上傳 <mark style="color:blue;">**< 5MB**</mark> 的 <mark style="color:blue;">**mp3、m4a**</mark> 音檔，並為上傳的背景音樂重新命名。
 
 <figure><img src="../../../.gitbook/assets/Frame 155.png" alt=""><figcaption></figcaption></figure>
 
@@ -22,4 +22,4 @@
 
 選擇上傳的音樂，點擊「Select」按鈕，並把音樂的「Action 」打開，即可成功套用上傳的背景音樂。
 
-<figure><img src="../../../.gitbook/assets/Frame 158.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Frame 158 (1).png" alt=""><figcaption></figcaption></figure>

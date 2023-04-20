@@ -2,7 +2,9 @@
 
 物件工具列 (Toolbar) 預設為收合的狀態，當點擊選取到 3D 物件時，才會展開。
 
-<figure><img src="../../.gitbook/assets/工具欄.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Frame 163.png" alt=""><figcaption></figcaption></figure>
+
+
 
 工具列的主要功能為以下：
 

@@ -1,7 +1,3 @@
----
-description: 攝影機
----
-
 # 💡 觀者攝影機 (Player camera)
 
 在物件階層列表的最上方，有一個固定的物件是觀者視角 (Player camera)，用途在於設定觀者的<mark style="color:blue;">**初始視角**</mark>。

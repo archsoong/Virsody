@@ -27,7 +27,7 @@
 
 也可以透過點擊上方的圖示來「刪除、更換」已選擇的背景音樂。
 
-<figure><img src="../../../.gitbook/assets/Frame 153.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Frame 153 (1).png" alt=""><figcaption></figcaption></figure>
 
 
 
@@ -37,6 +37,6 @@
 
 
 
-進入預覽模式後，即可在場景中聽見所選擇的背景音樂。而右上會顯示「背景音樂播放」的按鈕，點擊則可關閉背景音樂。
+進入預覽模式後，即可在場景中聽見所選擇的背景音樂。而右上會顯示「背景音樂播放」的按鈕，點擊則可 <mark style="color:blue;">**開 / 關**</mark> 背景音樂。
 
 <figure><img src="../../../.gitbook/assets/Frame 159.png" alt=""><figcaption></figcaption></figure>
