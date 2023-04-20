@@ -64,7 +64,6 @@
     * [💡 場景 (Scene)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/huan-jing-she-ding-environment/chang-jing-scene.md)
     * [💡 環境濾鏡 (Post-processing)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/huan-jing-she-ding-environment/huan-jing-lv-jing-postprocessing.md)
   * [背景音樂 (BGM)](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/bei-jing-yin-le-bgm/README.md)
-    * [💡 預設音樂庫](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/bei-jing-yin-le-bgm/yu-she-yin-le-ku.md)
     * [💡 上傳音樂](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/bei-jing-yin-le-bgm/shang-chuan-yin-le.md)
   * [物件階層列表](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/README.md)
     * [💡 物件控制](zi-you-bian-ji-mo-shi/wu-jian-jie-ceng-hierarchy/wu-jian-jie-ceng-lie-biao/wu-jian-kong-zhi.md)
