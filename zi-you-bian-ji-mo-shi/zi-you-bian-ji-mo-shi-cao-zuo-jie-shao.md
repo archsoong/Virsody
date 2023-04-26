@@ -41,7 +41,7 @@
 場景裡面全部的物件都表列於此，如果物件是由多個子物件所組成的話，也可以在此處展開。
 
 \
-<mark style="color:blue;">**2. 工具列 (ToolBar)**</mark>\
+<mark style="color:blue;">**2. 工具列 (Toolbar)**</mark>\
 針對物件常用的操作。
 
 \
