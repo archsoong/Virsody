@@ -46,7 +46,7 @@
 
 \
 <mark style="color:blue;">**3. 場景 (SceneView)**</mark>\
-主要會顯示你現在選擇的物件，它是最主要的編輯視窗，由三維空間(x,y,z)構成，通常會搭配物件三軸 (Gizmo) 的控制工具來進行編輯。
+主要會顯示你現在選擇的物件，它是最主要的編輯視窗，由三維空間(x,y,z)構成，通常會搭配物件三軸的控制工具 (Gizmo) 來進行編輯。
 
 \
 <mark style="color:blue;">**4. 物件屬性 (Inspector)**</mark>
