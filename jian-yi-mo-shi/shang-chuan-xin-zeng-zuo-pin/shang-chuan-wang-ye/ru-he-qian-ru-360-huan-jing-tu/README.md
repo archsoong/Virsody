@@ -7,4 +7,8 @@
 [(2) 如何嵌入 Momento360 ?](qian-ru-momento360.md)\
 
 
+<div align="left">
+
 <figure><img src="../../../../.gitbook/assets/360 pic.gif" alt=""><figcaption></figcaption></figure>
+
+</div>

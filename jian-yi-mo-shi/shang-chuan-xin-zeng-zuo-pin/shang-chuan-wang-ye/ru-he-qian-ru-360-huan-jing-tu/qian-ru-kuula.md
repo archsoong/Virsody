@@ -8,7 +8,11 @@
 
 註冊完後，進入個人頁面點擊「UPLOAD」按鈕
 
+<div align="center">
+
 <figure><img src="../../../../.gitbook/assets/Frame 66.png" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 
 
@@ -50,4 +54,8 @@
 
 建立完成後，即可讓參觀者在虛擬空間中觀看，並拖曳畫面查看 360 環景圖
 
+<div align="left">
+
 <figure><img src="../../../../.gitbook/assets/kulla.gif" alt=""><figcaption></figcaption></figure>
+
+</div>

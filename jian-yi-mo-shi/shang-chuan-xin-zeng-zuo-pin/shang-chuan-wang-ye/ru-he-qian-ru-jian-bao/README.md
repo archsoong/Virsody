@@ -6,6 +6,10 @@
 
 [(2) 如何嵌入 Canva？](qian-ru-canva.md)
 
+<div align="left">
+
 <figure><img src="../../../../.gitbook/assets/ppt gif.gif" alt=""><figcaption></figcaption></figure>
+
+</div>
 
 ###

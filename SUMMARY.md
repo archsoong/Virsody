@@ -92,7 +92,8 @@
 
 * [基礎方案](fu-wu-fang-an/fen-xiang-zhan-lan.md)
 * [創作者方案](fu-wu-fang-an/chuang-zuo-zhe-fang-an.md)
-* [進階方案](fu-wu-fang-an/jin-jie-fang-an.md)
+* [進階方案](fu-wu-fang-an/jin-jie-fang-an/README.md)
+  * [如何將展間外嵌至其他網站](fu-wu-fang-an/jin-jie-fang-an/ru-he-jiang-zhan-jian-wai-qian-zhi-qi-ta-wang-zhan.md)
 
 ## 其他問題
 
