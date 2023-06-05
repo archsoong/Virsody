@@ -16,8 +16,10 @@
 
 
 
-**Step3.** 將複製的網址貼在您要嵌入的地方，並在網址後加上：<mark style="color:blue;">**?fullscreen=true**</mark>
+**Step3.** 將複製的網址貼在您要嵌入的地方，並**將網址的 /exhibition 改為** <mark style="color:red;">**/embed**</mark>&#x20;
+
+**Step4.** 在網址最後面再加上：<mark style="color:red;">**?fullscreen=true**</mark>
 
 即可成功將展間外嵌到您想要的網站中！
 
-<figure><img src="../../.gitbook/assets/截圖 2023-05-18 下午6.09.44.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/截圖 2023-06-05 下午3.27.58.png" alt=""><figcaption></figcaption></figure>
