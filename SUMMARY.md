@@ -50,8 +50,8 @@
     * [⚠️ 為什麼上傳 gltf 模型檔時顯示上傳失敗？](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/wei-shi-mo-shang-chuan-gltf-mo-xing-dang-shi-xian-shi-shang-chuan-shi-bai.md)
     * [⚠️ 上傳的 3D 模型定位或面向不正確怎麼辦？](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/shang-chuan-3d-mo-xing/shang-chuan-de-3d-mo-xing-ding-wei-huo-mian-xiang-bu-zheng-que-zen-mo-ban.md)
   * [以 IPFS 上傳作品](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/README.md)
-    * [1 akaSwap](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/akaswap.md)
-    * [2 OpenSea](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
+    * [💡 akaSwap](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/akaswap.md)
+    * [💡 OpenSea](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/yi-ipfs-shang-chuan-zuo-pin/opensea.md)
   * [作品資訊 - 文字編輯器功能](jian-yi-mo-shi/shang-chuan-xin-zeng-zuo-pin/zuo-pin-zi-xun-wen-zi-bian-ji-qi-gong-neng.md)
 
 ## 自由編輯模式
@@ -93,7 +93,7 @@
 * [基礎方案](fu-wu-fang-an/fen-xiang-zhan-lan.md)
 * [創作者方案](fu-wu-fang-an/chuang-zuo-zhe-fang-an.md)
 * [進階方案](fu-wu-fang-an/jin-jie-fang-an/README.md)
-  * [如何將展間外嵌至其他網站](fu-wu-fang-an/jin-jie-fang-an/ru-he-jiang-zhan-jian-wai-qian-zhi-qi-ta-wang-zhan.md)
+  * [⚠️如何將展間外嵌至其他網站](fu-wu-fang-an/jin-jie-fang-an/ru-he-jiang-zhan-jian-wai-qian-zhi-qi-ta-wang-zhan.md)
 
 ## 其他問題
 
