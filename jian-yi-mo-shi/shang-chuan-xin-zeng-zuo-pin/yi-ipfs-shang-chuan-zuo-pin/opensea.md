@@ -2,7 +2,7 @@
 description: 如何在 OpenSea 上用 IPFS 上傳作品
 ---
 
-# 💡 OpenSea
+# 2 OpenSea
 
 將作品上傳至 [OpenSea](https://opensea.io/) 後，點擊作品頁面下方的<mark style="color:blue;">「Details」</mark>。
 
@@ -22,13 +22,13 @@ description: 如何在 OpenSea 上用 IPFS 上傳作品
 
 ![](<../../../.gitbook/assets/截圖 2022-06-13 上午1.33.31.png>)
 
-(2) 若並非網址形式，則請將 <mark style="color:blue;">ipfs://</mark>  後方的字串複製下來，並在字串前加上網址前綴 [<mark style="color:red;">https://ipfs.io/ipfs/</mark>](https://ipfs.io/ipfs/) ，再貼至 Virsody 後臺的 IPFS 連結輸入框內。
+(2) 若並非網址形式，則請將 <mark style="color:blue;">ipfs://</mark>  後方的字串複製下來，並在字串前加上網址前綴 [<mark style="color:red;">https://ipfs.io/ipfs/</mark>](https://ipfs.io/ipfs/) <mark style="color:red;"></mark> ，再貼至 Virsody 後臺的 IPFS 連結輸入框內。
 
 ![](<../../../.gitbook/assets/截圖 2022-06-10 下午6.16.36.png>)
 
 
 
-回到 Virsody 後，將複製的字串貼至 IPFS 連結輸入框中 ( ⚠️若字串沒有網址前綴，請記得在前面加上 [<mark style="color:red;">https://ipfs.io/ipfs/</mark>](https://ipfs.io/ipfs/)  )，並點選<mark style="color:blue;">「檢查連線」</mark>按鈕。
+回到 Virsody 後，將複製的字串貼至 IPFS 連結輸入框中 ( ⚠️若字串沒有網址前綴，請記得在前面加上 [<mark style="color:red;">https://ipfs.io/ipfs/</mark>](https://ipfs.io/ipfs/) <mark style="color:red;"></mark> )，並點選<mark style="color:blue;">「檢查連線」</mark>按鈕。
 
 ![](<../../../.gitbook/assets/截圖 2022-06-07 下午3.46.16.png>)
 
