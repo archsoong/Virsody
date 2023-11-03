@@ -2,7 +2,7 @@
 description: 如何在 akaSwap 上用 IPFS 上傳作品
 ---
 
-# 1 akaSwap
+# 💡 akaSwap
 
 將作品上傳至 [akaSwap ](https://www.akaswap.com/)後，至作品頁面中，找到「類型」旁邊的 <mark style="color:blue;">IPFS 連結</mark>。
 
